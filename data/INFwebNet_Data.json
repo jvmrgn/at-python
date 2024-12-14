@@ -1,0 +1,3763 @@
+[
+    {
+        "id": "a7d3a358",
+        "nome": "Não Informado",
+        "sobrenome": "Costa Ribeiro",
+        "email": "matheus4@webmail.net",
+        "idade": "36.0",
+        "data de nascimento": "1988-09-22",
+        "cidade": "Fortaleza",
+        "estado": "CE",
+        "hobbies": [
+            "leitura",
+            "cozinhar",
+            "mÃºsica",
+            "cinema",
+            "pintura"
+        ],
+        "linguagens de programacao": [
+            "Go",
+            "PHP",
+            "Ruby",
+            "Java",
+            "Python"
+        ],
+        "jogos": [
+            [
+                "Overwatch",
+                "PC"
+            ]
+        ]
+    },
+    {
+        "id": "e439f93f",
+        "nome": "Camila",
+        "sobrenome": "Ribeiro Dias",
+        "email": "camilaee@freemail.com",
+        "idade": "20.0",
+        "data de nascimento": "2004-10-22",
+        "cidade": "Porto Alegre",
+        "estado": "RS",
+        "hobbies": [
+            "cinema",
+            "futebol",
+            "nataÃ§Ã£o"
+        ],
+        "linguagens de programacao": [
+            "PHP",
+            "Kotlin",
+            "C#",
+            "Go",
+            "Java"
+        ],
+        "jogos": [
+            [
+                "Apex Legends",
+                "PC"
+            ],
+            [
+                "Minecraft",
+                "PC"
+            ]
+        ]
+    },
+    {
+        "id": "3f27c71e",
+        "nome": "Larissa",
+        "sobrenome": "Moraes Barbosa",
+        "email": "larissakx@webmail.net",
+        "idade": "20.0",
+        "data de nascimento": "2004-09-04",
+        "cidade": "Petropolis",
+        "estado": "RJ",
+        "hobbies": [
+            "leitura",
+            "fotografia",
+            "ciclismo"
+        ],
+        "linguagens de programacao": [
+            "C#",
+            "C++",
+            "Ruby",
+            "JavaScript"
+        ],
+        "jogos": [
+            [
+                "GTA V",
+                "PlayStation 4"
+            ],
+            [
+                "Cyberpunk 2077",
+                "PC"
+            ],
+            [
+                "Valorant",
+                "PC"
+            ]
+        ]
+    },
+    {
+        "id": "fdcd788f",
+        "nome": "Fernanda",
+        "sobrenome": "Gomes",
+        "email": "fernanda29h@inbox.org",
+        "idade": "19.0",
+        "data de nascimento": "Dec 10, 1999",
+        "cidade": "Campinas",
+        "estado": "SP",
+        "hobbies": [
+            "fotografia",
+            "cozinhar",
+            "futebol"
+        ],
+        "linguagens de programacao": [],
+        "jogos": [
+            [
+                "GTA V",
+                "PlayStation 4"
+            ],
+            [
+                "Valorant",
+                "PC"
+            ],
+            [
+                "Fortnite",
+                "PlayStation 4"
+            ],
+            [
+                "Minecraft",
+                "PC"
+            ],
+            [
+                "The Witcher 3",
+                "Xbox One"
+            ]
+        ]
+    },
+    {
+        "id": "89d761b6",
+        "nome": "Camila",
+        "sobrenome": "Carvalho Dias Ribeiro",
+        "email": "camilac1@freemail.com",
+        "idade": "25.0",
+        "data de nascimento": "1999-07-08",
+        "cidade": "BrasÃ­lia",
+        "estado": "DF",
+        "hobbies": [
+            "cinema",
+            "ciclismo"
+        ],
+        "linguagens de programacao": [
+            "JavaScript",
+            "Go",
+            "Java"
+        ],
+        "jogos": [
+            [
+                "Minecraft",
+                "PC"
+            ],
+            [
+                "Among Us",
+                "Mobile"
+            ],
+            [
+                "Valorant",
+                "PC"
+            ],
+            [
+                "The Witcher 3",
+                "Xbox One"
+            ]
+        ]
+    },
+    {
+        "id": "a758d57e",
+        "nome": "Camila",
+        "sobrenome": "Martins Fernandes Oliveira",
+        "email": "Não Informado",
+        "idade": "29.0",
+        "data de nascimento": "1994-12-21",
+        "cidade": "Salvador",
+        "estado": "BA",
+        "hobbies": [
+            "leitura",
+            "pintura",
+            "viagem"
+        ],
+        "linguagens de programacao": [
+            "Ruby",
+            "PHP"
+        ],
+        "jogos": [
+            [
+                "GTA V",
+                "PlayStation 4"
+            ]
+        ]
+    },
+    {
+        "id": "9042cede",
+        "nome": "LuÃ­s",
+        "sobrenome": "Costa Fernandes",
+        "email": "luÃ­sy8x@mailservice.com",
+        "idade": "26.0",
+        "data de nascimento": "1998-08-18",
+        "cidade": "Campinas",
+        "estado": "SP",
+        "hobbies": [
+            "nataÃ§Ã£o",
+            "viagem",
+            "cinema",
+            "ciclismo",
+            "cozinhar"
+        ],
+        "linguagens de programacao": [
+            "PHP",
+            "Java",
+            "Python"
+        ],
+        "jogos": [
+            [
+                "The Witcher 3",
+                "Xbox One"
+            ],
+            [
+                "GTA V",
+                "PlayStation 4"
+            ],
+            [
+                "League of Legends",
+                "PC"
+            ],
+            [
+                "Apex Legends",
+                "PC"
+            ],
+            [
+                "Minecraft",
+                "PC"
+            ]
+        ]
+    },
+    {
+        "id": "ae994746",
+        "nome": "Bruno",
+        "sobrenome": "Barbosa Souza",
+        "email": "bruno0@freemail.com",
+        "idade": "18.0",
+        "data de nascimento": "2006-01-01",
+        "cidade": "Belo Horizonte",
+        "estado": "MG",
+        "hobbies": [
+            "viagem",
+            "cinema",
+            "futebol"
+        ],
+        "linguagens de programacao": [
+            "Swift",
+            "C#",
+            "Go",
+            "Kotlin",
+            "PHP"
+        ],
+        "jogos": [
+            [
+                "Overwatch",
+                "PC"
+            ],
+            [
+                "GTA V",
+                "PlayStation 4"
+            ],
+            [
+                "The Witcher 3",
+                "Xbox One"
+            ],
+            [
+                "Minecraft",
+                "PC"
+            ]
+        ]
+    },
+    {
+        "id": "0592809f",
+        "nome": "Ana",
+        "sobrenome": "Rodrigues",
+        "email": "anav9i@inbox.org",
+        "idade": "41.0",
+        "data de nascimento": "1983-06-16",
+        "cidade": "SÃ£o Paulo",
+        "estado": "ZZ",
+        "hobbies": [
+            "pintura",
+            "fotografia"
+        ],
+        "linguagens de programacao": [
+            "Python",
+            "Java",
+            "PHP",
+            "Kotlin",
+            "Swift"
+        ],
+        "jogos": [
+            [
+                "Valorant",
+                "PC"
+            ],
+            [
+                "Overwatch",
+                "PC"
+            ]
+        ]
+    },
+    {
+        "id": "88588439",
+        "nome": "Rafael",
+        "sobrenome": "Oliveira",
+        "email": "rafaelau0@freemail.com",
+        "idade": "30.0",
+        "data de nascimento": "1993-11-07",
+        "cidade": "Porto Alegre",
+        "estado": "RS",
+        "hobbies": [],
+        "linguagens de programacao": [
+            "Java"
+        ],
+        "jogos": [
+            [
+                "Fortnite",
+                "PlayStation 4"
+            ],
+            [
+                "Cyberpunk 2077",
+                "PC"
+            ]
+        ]
+    },
+    {
+        "id": "ed4fdaad",
+        "nome": "Mariana",
+        "sobrenome": "Rocha Oliveira Dias",
+        "email": "mariana07@example.com",
+        "idade": "Não Informado",
+        "data de nascimento": "1992-09-06",
+        "cidade": "BrasÃ­lia",
+        "estado": "DF",
+        "hobbies": [],
+        "linguagens de programacao": [
+            "C#",
+            "Java",
+            "Go"
+        ],
+        "jogos": [
+            [
+                "GTA V",
+                "PlayStation 4"
+            ]
+        ]
+    },
+    {
+        "id": "c34e2389",
+        "nome": "Sofia",
+        "sobrenome": "AraÃºjo Carvalho Rodrigues",
+        "email": "sofia6@example.com",
+        "idade": "46.0",
+        "data de nascimento": "1978-04-09",
+        "cidade": "Juiz de Fora",
+        "estado": "MG",
+        "hobbies": [
+            "viagem",
+            "pintura"
+        ],
+        "linguagens de programacao": [],
+        "jogos": []
+    },
+    {
+        "id": "1c2874a4",
+        "nome": "Camila",
+        "sobrenome": "Santos",
+        "email": "camila6oo@inbox.org",
+        "idade": "45.0",
+        "data de nascimento": "05/03/81",
+        "cidade": "Recife",
+        "estado": "PE",
+        "hobbies": [
+            "ciclismo",
+            "pintura",
+            "nataÃ§Ã£o",
+            "mÃºsica",
+            "cinema"
+        ],
+        "linguagens de programacao": [
+            "Java",
+            "Kotlin",
+            "C++",
+            "Ruby",
+            "Python"
+        ],
+        "jogos": [
+            [
+                "Cyberpunk 2077",
+                "PC"
+            ],
+            [
+                "League of Legends",
+                "PC"
+            ]
+        ]
+    },
+    {
+        "id": "24d56155",
+        "nome": "Larissa",
+        "sobrenome": "Oliveira Souza Carvalho",
+        "email": "larissali@inbox.org",
+        "idade": "19.0",
+        "data de nascimento": "2005-05-12",
+        "cidade": "Salvador",
+        "estado": "BA",
+        "hobbies": [
+            "futebol",
+            "cozinhar",
+            "pintura"
+        ],
+        "linguagens de programacao": [
+            "JavaScript",
+            "Python",
+            "Swift"
+        ],
+        "jogos": [
+            [
+                "Cyberpunk 2077",
+                "PC"
+            ],
+            [
+                "Overwatch",
+                "PC"
+            ]
+        ]
+    },
+    {
+        "id": "3e7e4ad8",
+        "nome": "Julia",
+        "sobrenome": "Pereira Santos Almeida",
+        "email": "julia5b8@freemail.com",
+        "idade": "22.0",
+        "data de nascimento": "2002-10-13",
+        "cidade": "Recife",
+        "estado": "PE",
+        "hobbies": [
+            "ciclismo",
+            "pintura",
+            "cozinhar",
+            "mÃºsica",
+            "fotografia"
+        ],
+        "linguagens de programacao": [],
+        "jogos": [
+            [
+                "GTA V",
+                "PlayStation 4"
+            ]
+        ]
+    },
+    {
+        "id": "ecaf8829",
+        "nome": "Beatriz",
+        "sobrenome": "Souza Carvalho Moraes",
+        "email": "beatriz13@fastmail.com",
+        "idade": "47.0",
+        "data de nascimento": "1977-03-20",
+        "cidade": "Volta Redonda",
+        "estado": "RJ",
+        "hobbies": [],
+        "linguagens de programacao": [
+            "JavaScript",
+            "Swift",
+            "Go",
+            "Java"
+        ],
+        "jogos": [
+            [
+                "Apex Legends",
+                "PC"
+            ]
+        ]
+    },
+    {
+        "id": "37925a69",
+        "nome": "Rafael",
+        "sobrenome": "Martins Ribeiro Moraes",
+        "email": "Não Informado",
+        "idade": "42.0",
+        "data de nascimento": "1982-05-26",
+        "cidade": "Salvador",
+        "estado": "BA",
+        "hobbies": [
+            "leitura",
+            "fotografia",
+            "pintura",
+            "nataÃ§Ã£o",
+            "mÃºsica"
+        ],
+        "linguagens de programacao": [
+            "JavaScript",
+            "Ruby"
+        ],
+        "jogos": [
+            [
+                "Cyberpunk 2077",
+                "PC"
+            ],
+            [
+                "The Witcher 3",
+                "Xbox One"
+            ],
+            [
+                "Among Us",
+                "Mobile"
+            ]
+        ]
+    },
+    {
+        "id": "0f18226f",
+        "nome": "Pedro",
+        "sobrenome": "Silva",
+        "email": "pedrog@webmail.net",
+        "idade": "Não Informado",
+        "data de nascimento": "1984-04-26",
+        "cidade": "Belo Horizonte",
+        "estado": "MG",
+        "hobbies": [
+            "leitura"
+        ],
+        "linguagens de programacao": [
+            "Python",
+            "C++",
+            "Ruby",
+            "C#",
+            "Swift"
+        ],
+        "jogos": []
+    },
+    {
+        "id": "a9376f01",
+        "nome": "Beatriz",
+        "sobrenome": "Dias Ribeiro Lima",
+        "email": "Não Informado",
+        "idade": "45.0",
+        "data de nascimento": "1979-04-04",
+        "cidade": "BrasÃ­lia",
+        "estado": "DF",
+        "hobbies": [
+            "nataÃ§Ã£o",
+            "cozinhar",
+            "fotografia",
+            "pintura"
+        ],
+        "linguagens de programacao": [],
+        "jogos": []
+    },
+    {
+        "id": "aaa1efc2",
+        "nome": "Larissa",
+        "sobrenome": "Almeida Rodrigues",
+        "email": "larissah1@randommail.com",
+        "idade": "36.0",
+        "data de nascimento": "1988-06-06",
+        "cidade": "Juiz de Fora",
+        "estado": "MG",
+        "hobbies": [
+            "fotografia"
+        ],
+        "linguagens de programacao": [
+            "Python",
+            "C++",
+            "Java",
+            "Go"
+        ],
+        "jogos": [
+            [
+                "The Witcher 3",
+                "Xbox One"
+            ],
+            [
+                "Among Us",
+                "Mobile"
+            ]
+        ]
+    },
+    {
+        "id": "8752082c",
+        "nome": "Rafael",
+        "sobrenome": "Oliveira Souza Santos",
+        "email": "rafaelav@inbox.org",
+        "idade": "42.0",
+        "data de nascimento": "1982-09-26",
+        "cidade": "Recife",
+        "estado": "PE",
+        "hobbies": [
+            "futebol",
+            "mÃºsica",
+            "pintura",
+            "cinema"
+        ],
+        "linguagens de programacao": [
+            "Go",
+            "Kotlin",
+            "Ruby"
+        ],
+        "jogos": [
+            [
+                "GTA V",
+                "PlayStation 4"
+            ]
+        ]
+    },
+    {
+        "id": "a7e8504f",
+        "nome": "LuÃ­s",
+        "sobrenome": "Oliveira",
+        "email": "luÃ­s8@inbox.org",
+        "idade": "38.0",
+        "data de nascimento": "1986-07-21",
+        "cidade": "Rio de Janeiro",
+        "estado": "RJ",
+        "hobbies": [
+            "leitura"
+        ],
+        "linguagens de programacao": [
+            "C++",
+            "Java",
+            "C#",
+            "Ruby"
+        ],
+        "jogos": [
+            [
+                "The Witcher 3",
+                "Xbox One"
+            ],
+            [
+                "GTA V",
+                "PlayStation 4"
+            ]
+        ]
+    },
+    {
+        "id": "7ba461b8",
+        "nome": "Pedro",
+        "sobrenome": "Carvalho AraÃºjo",
+        "email": "pedrog@mailservice.com",
+        "idade": "31.0",
+        "data de nascimento": "1993-03-22",
+        "cidade": "Juiz de Fora",
+        "estado": "MG",
+        "hobbies": [
+            "futebol",
+            "fotografia",
+            "nataÃ§Ã£o",
+            "leitura",
+            "cozinhar"
+        ],
+        "linguagens de programacao": [
+            "Kotlin",
+            "Java",
+            "Swift",
+            "Ruby",
+            "Go"
+        ],
+        "jogos": [
+            [
+                "Fortnite",
+                "PlayStation 4"
+            ]
+        ]
+    },
+    {
+        "id": "4685d079",
+        "nome": "Larissa",
+        "sobrenome": "Correia Martins",
+        "email": "larissa8@mailservice.com",
+        "idade": "41.0",
+        "data de nascimento": "1983-03-07",
+        "cidade": "Curitiba",
+        "estado": "PR",
+        "hobbies": [],
+        "linguagens de programacao": [
+            "Kotlin"
+        ],
+        "jogos": [
+            [
+                "League of Legends",
+                "PC"
+            ],
+            [
+                "The Witcher 3",
+                "Xbox One"
+            ],
+            [
+                "Overwatch",
+                "PC"
+            ]
+        ]
+    },
+    {
+        "id": "e8155af8",
+        "nome": "Ana",
+        "sobrenome": "Barbosa AraÃºjo",
+        "email": "anazq@randommail.com",
+        "idade": "41.0",
+        "data de nascimento": "1982-11-06",
+        "cidade": "Rio de Janeiro",
+        "estado": "RJ",
+        "hobbies": [],
+        "linguagens de programacao": [
+            "Python",
+            "Kotlin",
+            "Swift",
+            "C++",
+            "PHP"
+        ],
+        "jogos": [
+            [
+                "Apex Legends",
+                "PC"
+            ],
+            [
+                "The Witcher 3",
+                "Xbox One"
+            ],
+            [
+                "Minecraft",
+                "PC"
+            ]
+        ]
+    },
+    {
+        "id": "12017cea",
+        "nome": "LuÃ­s",
+        "sobrenome": "Dias Souza Barbosa",
+        "email": "luÃ­s3j@randommail.com",
+        "idade": "44.0",
+        "data de nascimento": "1980-08-22",
+        "cidade": "Salvador",
+        "estado": "BA",
+        "hobbies": [],
+        "linguagens de programacao": [
+            "PHP"
+        ],
+        "jogos": []
+    },
+    {
+        "id": "a7c04195",
+        "nome": "Bruno",
+        "sobrenome": "Pereira",
+        "email": "bruno8@randommail.com",
+        "idade": "43.0",
+        "data de nascimento": "1981-04-14",
+        "cidade": "Campinas",
+        "estado": "SP",
+        "hobbies": [
+            "mÃºsica",
+            "cozinhar",
+            "cinema"
+        ],
+        "linguagens de programacao": [
+            "Swift",
+            "Python",
+            "Ruby",
+            "Go",
+            "Java"
+        ],
+        "jogos": [
+            [
+                "Cyberpunk 2077",
+                "PC"
+            ],
+            [
+                "Among Us",
+                "Mobile"
+            ],
+            [
+                "Valorant",
+                "PC"
+            ],
+            [
+                "Overwatch",
+                "PC"
+            ],
+            [
+                "League of Legends",
+                "PC"
+            ]
+        ]
+    },
+    {
+        "id": "bef7ca70",
+        "nome": "Fernanda",
+        "sobrenome": "Correia",
+        "email": "fernandac@example.com",
+        "idade": "29.0",
+        "data de nascimento": "Não Informado",
+        "cidade": "Juiz de Fora",
+        "estado": "MG",
+        "hobbies": [],
+        "linguagens de programacao": [
+            "Python",
+            "C#",
+            "PHP",
+            "JavaScript"
+        ],
+        "jogos": [
+            [
+                "Minecraft",
+                "PC"
+            ],
+            [
+                "Overwatch",
+                "PC"
+            ],
+            [
+                "Valorant",
+                "PC"
+            ],
+            [
+                "Cyberpunk 2077",
+                "PC"
+            ],
+            [
+                "GTA V",
+                "PlayStation 4"
+            ]
+        ]
+    },
+    {
+        "id": "0050be84",
+        "nome": "Lucas",
+        "sobrenome": "Souza Almeida",
+        "email": "lucas5@randommail.com",
+        "idade": "45.0",
+        "data de nascimento": "1979-08-03",
+        "cidade": "SÃ£o Paulo",
+        "estado": "SP",
+        "hobbies": [
+            "mÃºsica",
+            "viagem",
+            "cinema",
+            "nataÃ§Ã£o",
+            "fotografia"
+        ],
+        "linguagens de programacao": [
+            "C#",
+            "C++"
+        ],
+        "jogos": [
+            [
+                "Cyberpunk 2077",
+                "PC"
+            ],
+            [
+                "Valorant",
+                "PC"
+            ],
+            [
+                "League of Legends",
+                "PC"
+            ],
+            [
+                "GTA V",
+                "PlayStation 4"
+            ],
+            [
+                "Overwatch",
+                "PC"
+            ]
+        ]
+    },
+    {
+        "id": "e34f880c",
+        "nome": "JoÃ£o",
+        "sobrenome": "Magrini",
+        "email": "joaovini100@gmail.com",
+        "idade": "44.0",
+        "data de nascimento": "1980-04-11",
+        "cidade": "Piracicaba",
+        "estado": "SP",
+        "hobbies": [
+            "viagem",
+            "pintura",
+            "nataÃ§Ã£o",
+            "futebol"
+        ],
+        "linguagens de programacao": [
+            "Ruby",
+            "Swift",
+            "PHP",
+            "Python",
+            "Kotlin"
+        ],
+        "jogos": [
+            [
+                "The Witcher 3",
+                "Xbox One"
+            ],
+            [
+                "Valorant",
+                "PC"
+            ]
+        ]
+    },
+    {
+        "id": "c85033d0",
+        "nome": "Pedro",
+        "sobrenome": "Ribeiro",
+        "email": "pedroi@freemail.com",
+        "idade": "48.0",
+        "data de nascimento": "1976-04-19",
+        "cidade": "Rio de Janeiro",
+        "estado": "RJ",
+        "hobbies": [
+            "ciclismo"
+        ],
+        "linguagens de programacao": [
+            "Go",
+            "JavaScript",
+            "PHP",
+            "Swift"
+        ],
+        "jogos": []
+    },
+    {
+        "id": "f644292d",
+        "nome": "Pedro",
+        "sobrenome": "AraÃºjo Dias Gomes",
+        "email": "pedroh@example.com",
+        "idade": "40.0",
+        "data de nascimento": "1984-07-10",
+        "cidade": "Petropolis",
+        "estado": "RJ",
+        "hobbies": [],
+        "linguagens de programacao": [
+            "PHP",
+            "Ruby",
+            "Java",
+            "JavaScript"
+        ],
+        "jogos": []
+    },
+    {
+        "id": "1000e909",
+        "nome": "Ana",
+        "sobrenome": "Barbosa",
+        "email": "ana7n@mailservice.com",
+        "idade": "45.0",
+        "data de nascimento": "1979-06-11",
+        "cidade": "Juiz de Fora",
+        "estado": "Não Informado",
+        "hobbies": [
+            "ciclismo",
+            "fotografia"
+        ],
+        "linguagens de programacao": [
+            "C++",
+            "PHP",
+            "Ruby",
+            "Go",
+            "C#"
+        ],
+        "jogos": [
+            [
+                "Overwatch",
+                "PC"
+            ],
+            [
+                "Apex Legends",
+                "PC"
+            ],
+            [
+                "Minecraft",
+                "PC"
+            ]
+        ]
+    },
+    {
+        "id": "00705400",
+        "nome": "Rafael",
+        "sobrenome": "Carvalho",
+        "email": "rafaelpc4@freemail.com",
+        "idade": "27.0",
+        "data de nascimento": "1997-01-06",
+        "cidade": "SÃ£o Paulo",
+        "estado": "SP",
+        "hobbies": [
+            "pintura"
+        ],
+        "linguagens de programacao": [
+            "PHP"
+        ],
+        "jogos": [
+            [
+                "The Witcher 3",
+                "Xbox One"
+            ],
+            [
+                "Overwatch",
+                "PC"
+            ]
+        ]
+    },
+    {
+        "id": "aae18988",
+        "nome": "Larissa",
+        "sobrenome": "Gomes Moraes",
+        "email": "larissawvv@fastmail.com",
+        "idade": "33.0",
+        "data de nascimento": "1991-03-11",
+        "cidade": "Juiz de Fora",
+        "estado": "MG",
+        "hobbies": [
+            "ciclismo",
+            "nataÃ§Ã£o",
+            "mÃºsica",
+            "cinema",
+            "viagem"
+        ],
+        "linguagens de programacao": [],
+        "jogos": [
+            [
+                "GTA V",
+                "PlayStation 4"
+            ],
+            [
+                "League of Legends",
+                "PC"
+            ],
+            [
+                "Apex Legends",
+                "PC"
+            ],
+            [
+                "Valorant",
+                "PC"
+            ],
+            [
+                "Cyberpunk 2077",
+                "PC"
+            ]
+        ]
+    },
+    {
+        "id": "8284af6b",
+        "nome": "LuÃ­s",
+        "sobrenome": "Almeida Gomes Ribeiro",
+        "email": "luÃ­sl4@fastmail.com",
+        "idade": "Não Informado",
+        "data de nascimento": "1980-12-27",
+        "cidade": "Recife",
+        "estado": "PE",
+        "hobbies": [
+            "pintura"
+        ],
+        "linguagens de programacao": [
+            "Python",
+            "Java"
+        ],
+        "jogos": [
+            [
+                "Fortnite",
+                "PlayStation 4"
+            ]
+        ]
+    },
+    {
+        "id": "73f40cb3",
+        "nome": "Pedro",
+        "sobrenome": "Souza Oliveira",
+        "email": "pedrosq@fastmail.com",
+        "idade": "20.0",
+        "data de nascimento": "2003-11-12",
+        "cidade": "Juiz de Fora",
+        "estado": "MG",
+        "hobbies": [
+            "mÃºsica",
+            "nataÃ§Ã£o",
+            "ciclismo"
+        ],
+        "linguagens de programacao": [
+            "Go",
+            "PHP"
+        ],
+        "jogos": [
+            [
+                "Fortnite",
+                "PlayStation 4"
+            ],
+            [
+                "Overwatch",
+                "PC"
+            ],
+            [
+                "Among Us",
+                "Mobile"
+            ],
+            [
+                "Valorant",
+                "PC"
+            ],
+            [
+                "The Witcher 3",
+                "Xbox One"
+            ]
+        ]
+    },
+    {
+        "id": "94eccf56",
+        "nome": "Lucas",
+        "sobrenome": "Carvalho Santos Fernandes",
+        "email": "lucas8qn@example.com",
+        "idade": "25.0",
+        "data de nascimento": "1999-09-04",
+        "cidade": "SÃ£o Paulo",
+        "estado": "SP",
+        "hobbies": [
+            "mÃºsica"
+        ],
+        "linguagens de programacao": [
+            "Swift",
+            "PHP",
+            "JavaScript"
+        ],
+        "jogos": [
+            [
+                "Among Us",
+                "Mobile"
+            ],
+            [
+                "League of Legends",
+                "PC"
+            ],
+            [
+                "The Witcher 3",
+                "Xbox One"
+            ],
+            [
+                "Overwatch",
+                "PC"
+            ]
+        ]
+    },
+    {
+        "id": "da14ae70",
+        "nome": "Rafael",
+        "sobrenome": "Ribeiro Moraes",
+        "email": "rafaelkk@mailservice.com",
+        "idade": "22.0",
+        "data de nascimento": "2002-01-24",
+        "cidade": "Juiz de Fora",
+        "estado": "MG",
+        "hobbies": [],
+        "linguagens de programacao": [
+            "Ruby",
+            "PHP",
+            "Python",
+            "Kotlin"
+        ],
+        "jogos": [
+            [
+                "Fortnite",
+                "PlayStation 4"
+            ]
+        ]
+    },
+    {
+        "id": "e36265d7",
+        "nome": "Guilherme",
+        "sobrenome": "Rocha",
+        "email": "guilherme1@inbox.org",
+        "idade": "Não Informado",
+        "data de nascimento": "1993-05-14",
+        "cidade": "Fortaleza",
+        "estado": "CE",
+        "hobbies": [
+            "pintura"
+        ],
+        "linguagens de programacao": [
+            "JavaScript",
+            "C++"
+        ],
+        "jogos": [
+            [
+                "Cyberpunk 2077",
+                "PC"
+            ],
+            [
+                "The Witcher 3",
+                "Xbox One"
+            ],
+            [
+                "Minecraft",
+                "PC"
+            ],
+            [
+                "Valorant",
+                "PC"
+            ],
+            [
+                "Fortnite",
+                "PlayStation 4"
+            ]
+        ]
+    },
+    {
+        "id": "addf7b94",
+        "nome": "Pedro",
+        "sobrenome": "Almeida",
+        "email": "pedro9@randommail.com",
+        "idade": "18.0",
+        "data de nascimento": "2006-05-04",
+        "cidade": "Campinas",
+        "estado": "SP",
+        "hobbies": [
+            "mÃºsica",
+            "cozinhar",
+            "fotografia",
+            "viagem",
+            "nataÃ§Ã£o"
+        ],
+        "linguagens de programacao": [
+            "C#",
+            "JavaScript",
+            "PHP"
+        ],
+        "jogos": []
+    },
+    {
+        "id": "464738a1",
+        "nome": "Ana",
+        "sobrenome": "Carvalho Moraes",
+        "email": "anaro5@fastmail.com",
+        "idade": "32.0",
+        "data de nascimento": "2024-07-22",
+        "cidade": "Salvador",
+        "estado": "BA",
+        "hobbies": [
+            "cozinhar"
+        ],
+        "linguagens de programacao": [
+            "Ruby",
+            "PHP",
+            "C++"
+        ],
+        "jogos": [
+            [
+                "Apex Legends",
+                "PC"
+            ]
+        ]
+    },
+    {
+        "id": "2771ad9f",
+        "nome": "Ana",
+        "sobrenome": "Dias",
+        "email": "anak2@fastmail.com",
+        "idade": "20.0",
+        "data de nascimento": "31/02/2000",
+        "cidade": "Volta Redonda",
+        "estado": "RJ",
+        "hobbies": [
+            "fotografia"
+        ],
+        "linguagens de programacao": [
+            "C#"
+        ],
+        "jogos": [
+            [
+                "GTA V",
+                "PlayStation 4"
+            ],
+            [
+                "Among Us",
+                "Mobile"
+            ],
+            [
+                "Apex Legends",
+                "PC"
+            ],
+            [
+                "Valorant",
+                "PC"
+            ]
+        ]
+    },
+    {
+        "id": "14a5e91a",
+        "nome": "Matheus",
+        "sobrenome": "Silva",
+        "email": "matheusz1@inbox.org",
+        "idade": "19.0",
+        "data de nascimento": "2004-12-23",
+        "cidade": "Fortaleza",
+        "estado": "CE",
+        "hobbies": [
+            "pintura",
+            "leitura",
+            "futebol"
+        ],
+        "linguagens de programacao": [
+            "Python"
+        ],
+        "jogos": []
+    },
+    {
+        "id": "5504d3f7",
+        "nome": "LuÃ­s",
+        "sobrenome": "Barbosa Rocha Gomes",
+        "email": "luÃ­sy7r@mailservice.com",
+        "idade": "21.0",
+        "data de nascimento": "2003-03-20",
+        "cidade": "Petropolis",
+        "estado": "RJ",
+        "hobbies": [
+            "futebol",
+            "fotografia",
+            "mÃºsica",
+            "leitura"
+        ],
+        "linguagens de programacao": [
+            "Ruby"
+        ],
+        "jogos": [
+            [
+                "Fortnite",
+                "PlayStation 4"
+            ],
+            [
+                "Apex Legends",
+                "PC"
+            ],
+            [
+                "Overwatch",
+                "PC"
+            ]
+        ]
+    },
+    {
+        "id": "22ec0237",
+        "nome": "Carlos",
+        "sobrenome": "Rocha",
+        "email": "carlosc@randommail.com",
+        "idade": "48.0",
+        "data de nascimento": "1976-09-03",
+        "cidade": "SÃ£o Paulo",
+        "estado": "Não Informado",
+        "hobbies": [
+            "viagem",
+            "leitura",
+            "ciclismo"
+        ],
+        "linguagens de programacao": [
+            "Python",
+            "Kotlin",
+            "C++",
+            "Ruby"
+        ],
+        "jogos": [
+            [
+                "League of Legends",
+                "PC"
+            ],
+            [
+                "The Witcher 3",
+                "Xbox One"
+            ]
+        ]
+    },
+    {
+        "id": "addf7b94",
+        "nome": "Pedro",
+        "sobrenome": "Lima Dias",
+        "email": "maria.santos@",
+        "idade": "Não Informado",
+        "data de nascimento": "2003-03-16",
+        "cidade": "Juiz de Fora",
+        "estado": "MG",
+        "hobbies": [
+            "pintura",
+            "fotografia",
+            "futebol",
+            "cinema",
+            "leitura"
+        ],
+        "linguagens de programacao": [
+            "C#"
+        ],
+        "jogos": [
+            [
+                "Overwatch",
+                "PC"
+            ],
+            [
+                "GTA V",
+                "PlayStation 4"
+            ],
+            [
+                "Among Us",
+                "Mobile"
+            ]
+        ]
+    },
+    {
+        "id": "2a5a7599",
+        "nome": "Rafael",
+        "sobrenome": "Gomes",
+        "email": "rafaelfwk@webmail.net",
+        "idade": "37.0",
+        "data de nascimento": "1987-08-19",
+        "cidade": "BrasÃ­lia",
+        "estado": "DF",
+        "hobbies": [
+            "cinema",
+            "viagem",
+            "leitura",
+            "cozinhar",
+            "ciclismo"
+        ],
+        "linguagens de programacao": [
+            "Ruby",
+            "Java",
+            "C#"
+        ],
+        "jogos": [
+            [
+                "Apex Legends",
+                "PC"
+            ],
+            [
+                "GTA V",
+                "PlayStation 4"
+            ],
+            [
+                "Fortnite",
+                "PlayStation 4"
+            ],
+            [
+                "Valorant",
+                "PC"
+            ]
+        ]
+    },
+    {
+        "id": "8bca4c2f",
+        "nome": "Larissa",
+        "sobrenome": "Pereira Carvalho",
+        "email": "larissaq@example.com",
+        "idade": "30.0",
+        "data de nascimento": "1994-10-04",
+        "cidade": "Petropolis",
+        "estado": "RJ",
+        "hobbies": [
+            "pintura"
+        ],
+        "linguagens de programacao": [],
+        "jogos": [
+            [
+                "Fortnite",
+                "PlayStation 4"
+            ],
+            [
+                "League of Legends",
+                "PC"
+            ],
+            [
+                "The Witcher 3",
+                "Xbox One"
+            ]
+        ]
+    },
+    {
+        "id": "b7a070b0",
+        "nome": "Lucas",
+        "sobrenome": "Dias Martins Lima",
+        "email": "lucaso0p@freemail.com",
+        "idade": "30.0",
+        "data de nascimento": "1994-05-21",
+        "cidade": "SÃ£o Paulo",
+        "estado": "SP",
+        "hobbies": [
+            "viagem",
+            "leitura",
+            "cozinhar",
+            "futebol"
+        ],
+        "linguagens de programacao": [
+            "C#",
+            "Go",
+            "Java"
+        ],
+        "jogos": []
+    },
+    {
+        "id": "6667eca4",
+        "nome": "Julia",
+        "sobrenome": "Costa Carvalho Lima",
+        "email": "juliar@mailservice.com",
+        "idade": "44.0",
+        "data de nascimento": "1980-04-23",
+        "cidade": "Volta Redonda",
+        "estado": "RJ",
+        "hobbies": [],
+        "linguagens de programacao": [
+            "JavaScript",
+            "Go",
+            "PHP",
+            "C++",
+            "Ruby"
+        ],
+        "jogos": [
+            [
+                "Valorant",
+                "PC"
+            ],
+            [
+                "League of Legends",
+                "PC"
+            ],
+            [
+                "Apex Legends",
+                "PC"
+            ]
+        ]
+    },
+    {
+        "id": "b07dcc18",
+        "nome": "JoÃ£o",
+        "sobrenome": "Rodrigues AraÃºjo",
+        "email": "joÃ£on@webmail.net",
+        "idade": "24.0",
+        "data de nascimento": "2000-01-17",
+        "cidade": "Fortaleza",
+        "estado": "CE",
+        "hobbies": [
+            "pintura",
+            "mÃºsica",
+            "cinema",
+            "cozinhar",
+            "viagem"
+        ],
+        "linguagens de programacao": [
+            "JavaScript",
+            "Go",
+            "Kotlin"
+        ],
+        "jogos": [
+            [
+                "Valorant",
+                "PC"
+            ]
+        ]
+    },
+    {
+        "id": "13b9a570",
+        "nome": "Camila",
+        "sobrenome": "Silva Carvalho",
+        "email": "camilar@inbox.org",
+        "idade": "Não Informado",
+        "data de nascimento": "1984-11-21",
+        "cidade": "Fortaleza",
+        "estado": "CE",
+        "hobbies": [
+            "pintura",
+            "mÃºsica",
+            "cozinhar",
+            "fotografia",
+            "nataÃ§Ã£o"
+        ],
+        "linguagens de programacao": [
+            "Swift",
+            "PHP",
+            "Python"
+        ],
+        "jogos": [
+            [
+                "Overwatch",
+                "PC"
+            ],
+            [
+                "GTA V",
+                "PlayStation 4"
+            ],
+            [
+                "Apex Legends",
+                "PC"
+            ]
+        ]
+    },
+    {
+        "id": "1991bdf1",
+        "nome": "Beatriz",
+        "sobrenome": "AraÃºjo Souza",
+        "email": "beatriz00q@inbox.org",
+        "idade": "31.0",
+        "data de nascimento": "1993-06-01",
+        "cidade": "Porto Alegre",
+        "estado": "RS",
+        "hobbies": [
+            "fotografia",
+            "viagem",
+            "cozinhar",
+            "nataÃ§Ã£o",
+            "leitura"
+        ],
+        "linguagens de programacao": [
+            "Ruby",
+            "Go",
+            "JavaScript",
+            "Java",
+            "PHP"
+        ],
+        "jogos": [
+            [
+                "Among Us",
+                "Mobile"
+            ],
+            [
+                "Valorant",
+                "PC"
+            ],
+            [
+                "Overwatch",
+                "PC"
+            ]
+        ]
+    },
+    {
+        "id": "a39d2340",
+        "nome": "Carlos",
+        "sobrenome": "Ribeiro Rocha Rodrigues",
+        "email": "carlosvik@fastmail.com",
+        "idade": "26.0",
+        "data de nascimento": "1997-11-03",
+        "cidade": "Porto Alegre",
+        "estado": "RS",
+        "hobbies": [
+            "viagem",
+            "fotografia",
+            "ciclismo",
+            "cozinhar",
+            "pintura"
+        ],
+        "linguagens de programacao": [],
+        "jogos": [
+            [
+                "Among Us",
+                "Mobile"
+            ],
+            [
+                "Overwatch",
+                "PC"
+            ],
+            [
+                "Fortnite",
+                "PlayStation 4"
+            ]
+        ]
+    },
+    {
+        "id": "0c6a9216",
+        "nome": "LuÃ­s",
+        "sobrenome": "Ribeiro Lima Rodrigues",
+        "email": "luÃ­su@mailservice.com",
+        "idade": "30.0",
+        "data de nascimento": "1993-11-14",
+        "cidade": "SÃ£o Paulo",
+        "estado": "SP",
+        "hobbies": [
+            "leitura",
+            "ciclismo",
+            "futebol",
+            "fotografia"
+        ],
+        "linguagens de programacao": [
+            "C#",
+            "PHP",
+            "Go",
+            "Python",
+            "JavaScript"
+        ],
+        "jogos": [
+            [
+                "Apex Legends",
+                "PC"
+            ],
+            [
+                "Valorant",
+                "PC"
+            ]
+        ]
+    },
+    {
+        "id": "5526070b",
+        "nome": "Camila",
+        "sobrenome": "Souza",
+        "email": "camilawce@webmail.net",
+        "idade": "32.0",
+        "data de nascimento": "1992-09-14",
+        "cidade": "BrasÃ­lia",
+        "estado": "DF",
+        "hobbies": [
+            "cozinhar",
+            "pintura"
+        ],
+        "linguagens de programacao": [
+            "C++",
+            "Ruby",
+            "Kotlin",
+            "Java",
+            "JavaScript"
+        ],
+        "jogos": [
+            [
+                "Fortnite",
+                "PlayStation 4"
+            ],
+            [
+                "The Witcher 3",
+                "Xbox One"
+            ],
+            [
+                "Valorant",
+                "PC"
+            ],
+            [
+                "Overwatch",
+                "PC"
+            ]
+        ]
+    },
+    {
+        "id": "105a1585",
+        "nome": "Beatriz",
+        "sobrenome": "Almeida Souza Santos",
+        "email": "beatrizoo@fastmail.com",
+        "idade": "23.0",
+        "data de nascimento": "2001-10-21",
+        "cidade": "Manaus",
+        "estado": "AM",
+        "hobbies": [
+            "futebol",
+            "viagem"
+        ],
+        "linguagens de programacao": [
+            "Go",
+            "Kotlin",
+            "C#",
+            "Python"
+        ],
+        "jogos": [
+            [
+                "Apex Legends",
+                "PC"
+            ],
+            [
+                "Fortnite",
+                "PlayStation 4"
+            ],
+            [
+                "Cyberpunk 2077",
+                "PC"
+            ]
+        ]
+    },
+    {
+        "id": "52f3cc71",
+        "nome": "Camila",
+        "sobrenome": "Pereira Martins Rodrigues",
+        "email": "camila9x@mailservice.com",
+        "idade": "24.0",
+        "data de nascimento": "2000-01-06",
+        "cidade": "Campinas",
+        "estado": "SP",
+        "hobbies": [],
+        "linguagens de programacao": [
+            "JavaScript",
+            "Kotlin",
+            "PHP",
+            "Python"
+        ],
+        "jogos": [
+            [
+                "Among Us",
+                "Mobile"
+            ],
+            [
+                "Fortnite",
+                "PlayStation 4"
+            ],
+            [
+                "Minecraft",
+                "PC"
+            ],
+            [
+                "League of Legends",
+                "PC"
+            ],
+            [
+                "Overwatch",
+                "PC"
+            ]
+        ]
+    },
+    {
+        "id": "2844aa20",
+        "nome": "LuÃ­s",
+        "sobrenome": "Carvalho Fernandes Pereira",
+        "email": "luÃ­s2fk@webmail.net",
+        "idade": "45.0",
+        "data de nascimento": "1979-09-02",
+        "cidade": "SÃ£o Paulo",
+        "estado": "SP",
+        "hobbies": [],
+        "linguagens de programacao": [
+            "Go",
+            "C#"
+        ],
+        "jogos": []
+    },
+    {
+        "id": "723a6950",
+        "nome": "Matheus",
+        "sobrenome": "Fernandes",
+        "email": "matheus4@randommail.com",
+        "idade": "32.0",
+        "data de nascimento": "1991-12-11",
+        "cidade": "Curitiba",
+        "estado": "PR",
+        "hobbies": [
+            "leitura",
+            "nataÃ§Ã£o"
+        ],
+        "linguagens de programacao": [
+            "Swift",
+            "Java"
+        ],
+        "jogos": []
+    },
+    {
+        "id": "26a53093",
+        "nome": "Larissa",
+        "sobrenome": "Santos Ribeiro",
+        "email": "larissarnl@randommail.com",
+        "idade": "47.0",
+        "data de nascimento": "1977-08-05",
+        "cidade": "Porto Alegre",
+        "estado": "RS",
+        "hobbies": [
+            "ciclismo",
+            "cozinhar"
+        ],
+        "linguagens de programacao": [
+            "PHP",
+            "JavaScript",
+            "C++",
+            "Python"
+        ],
+        "jogos": [
+            [
+                "Overwatch",
+                "PC"
+            ],
+            [
+                "Fortnite",
+                "PlayStation 4"
+            ]
+        ]
+    },
+    {
+        "id": "03b7736a",
+        "nome": "Camila",
+        "sobrenome": "Oliveira Costa Moraes",
+        "email": "camilaphh@fastmail.com",
+        "idade": "32.0",
+        "data de nascimento": "1992-03-06",
+        "cidade": "Porto Alegre",
+        "estado": "RS",
+        "hobbies": [
+            "futebol",
+            "mÃºsica",
+            "nataÃ§Ã£o"
+        ],
+        "linguagens de programacao": [],
+        "jogos": [
+            [
+                "Among Us",
+                "Mobile"
+            ],
+            [
+                "Minecraft",
+                "PC"
+            ],
+            [
+                "Fortnite",
+                "PlayStation 4"
+            ]
+        ]
+    },
+    {
+        "id": "bb8d846d",
+        "nome": "Bruno",
+        "sobrenome": "Correia Costa",
+        "email": "bruno53@fastmail.com",
+        "idade": "Não Informado",
+        "data de nascimento": "2003-08-11",
+        "cidade": "Curitiba",
+        "estado": "PR",
+        "hobbies": [
+            "cinema",
+            "leitura"
+        ],
+        "linguagens de programacao": [
+            "JavaScript"
+        ],
+        "jogos": [
+            [
+                "League of Legends",
+                "PC"
+            ],
+            [
+                "The Witcher 3",
+                "Xbox One"
+            ],
+            [
+                "Fortnite",
+                "PlayStation 4"
+            ],
+            [
+                "Minecraft",
+                "PC"
+            ]
+        ]
+    },
+    {
+        "id": "ce987d08",
+        "nome": "Pedro",
+        "sobrenome": "AraÃºjo Costa",
+        "email": "Não Informado",
+        "idade": "Não Informado",
+        "data de nascimento": "1995-12-16",
+        "cidade": "BrasÃ­lia",
+        "estado": "DF",
+        "hobbies": [
+            "ciclismo",
+            "cinema"
+        ],
+        "linguagens de programacao": [
+            "JavaScript",
+            "PHP",
+            "Swift"
+        ],
+        "jogos": [
+            [
+                "Fortnite",
+                "PlayStation 4"
+            ]
+        ]
+    },
+    {
+        "id": "c3288a3e",
+        "nome": "Carlos",
+        "sobrenome": "Santos Gomes",
+        "email": "carlosaa2@randommail.com",
+        "idade": "27.0",
+        "data de nascimento": "1997-05-17",
+        "cidade": "SÃ£o Paulo",
+        "estado": "SP",
+        "hobbies": [
+            "cozinhar",
+            "pintura"
+        ],
+        "linguagens de programacao": [],
+        "jogos": [
+            [
+                "League of Legends",
+                "PC"
+            ],
+            [
+                "Apex Legends",
+                "PC"
+            ],
+            [
+                "Cyberpunk 2077",
+                "PC"
+            ]
+        ]
+    },
+    {
+        "id": "cc8a0b52",
+        "nome": "Mariana",
+        "sobrenome": "AraÃºjo",
+        "email": "marianafyu@mailservice.com",
+        "idade": "37.0",
+        "data de nascimento": "1987-04-21",
+        "cidade": "Fortaleza",
+        "estado": "CE",
+        "hobbies": [
+            "nataÃ§Ã£o"
+        ],
+        "linguagens de programacao": [
+            "Swift",
+            "Ruby",
+            "C++"
+        ],
+        "jogos": [
+            [
+                "GTA V",
+                "PlayStation 4"
+            ],
+            [
+                "Cyberpunk 2077",
+                "PC"
+            ]
+        ]
+    },
+    {
+        "id": "97fa29e9",
+        "nome": "Pedro",
+        "sobrenome": "Silva",
+        "email": "pedroy4@mailservice.com",
+        "idade": "39.0",
+        "data de nascimento": "1985-04-12",
+        "cidade": "Porto Alegre",
+        "estado": "RS",
+        "hobbies": [
+            "cinema",
+            "pintura",
+            "futebol",
+            "cozinhar"
+        ],
+        "linguagens de programacao": [
+            "Swift",
+            "Python"
+        ],
+        "jogos": [
+            [
+                "The Witcher 3",
+                "Xbox One"
+            ]
+        ]
+    },
+    {
+        "id": "de90a03f",
+        "nome": "Larissa",
+        "sobrenome": "Costa",
+        "email": "larissaosc@example.com",
+        "idade": "29.0",
+        "data de nascimento": "1994-12-22",
+        "cidade": "Porto Alegre",
+        "estado": "RS",
+        "hobbies": [
+            "ciclismo"
+        ],
+        "linguagens de programacao": [
+            "Swift",
+            "Go",
+            "PHP"
+        ],
+        "jogos": [
+            [
+                "GTA V",
+                "PlayStation 4"
+            ],
+            [
+                "Minecraft",
+                "PC"
+            ],
+            [
+                "The Witcher 3",
+                "Xbox One"
+            ],
+            [
+                "League of Legends",
+                "PC"
+            ],
+            [
+                "Cyberpunk 2077",
+                "PC"
+            ]
+        ]
+    },
+    {
+        "id": "869236b7",
+        "nome": "Julia",
+        "sobrenome": "Martins",
+        "email": "juliaxmw@inbox.org",
+        "idade": "44.0",
+        "data de nascimento": "1980-02-20",
+        "cidade": "Fortaleza",
+        "estado": "CE",
+        "hobbies": [
+            "cinema",
+            "mÃºsica",
+            "cozinhar"
+        ],
+        "linguagens de programacao": [
+            "Java"
+        ],
+        "jogos": [
+            [
+                "The Witcher 3",
+                "Xbox One"
+            ],
+            [
+                "Valorant",
+                "PC"
+            ],
+            [
+                "Apex Legends",
+                "PC"
+            ]
+        ]
+    },
+    {
+        "id": "2bfa3d18",
+        "nome": "Guilherme",
+        "sobrenome": "Costa Dias",
+        "email": "guilhermeoj@inbox.org",
+        "idade": "44.0",
+        "data de nascimento": "1980-06-21",
+        "cidade": "Não Informado",
+        "estado": "Não Informado",
+        "hobbies": [],
+        "linguagens de programacao": [
+            "Swift",
+            "Java",
+            "JavaScript",
+            "Ruby",
+            "PHP"
+        ],
+        "jogos": [
+            [
+                "Apex Legends",
+                "PC"
+            ],
+            [
+                "Cyberpunk 2077",
+                "PC"
+            ],
+            [
+                "Overwatch",
+                "PC"
+            ]
+        ]
+    },
+    {
+        "id": "826258f9",
+        "nome": "Mariana",
+        "sobrenome": "Ribeiro",
+        "email": "mariana5@randommail.com",
+        "idade": "Não Informado",
+        "data de nascimento": "2000-06-04",
+        "cidade": "Juiz de Fora",
+        "estado": "MG",
+        "hobbies": [],
+        "linguagens de programacao": [
+            "C++"
+        ],
+        "jogos": [
+            [
+                "Overwatch",
+                "PC"
+            ],
+            [
+                "Minecraft",
+                "PC"
+            ],
+            [
+                "Cyberpunk 2077",
+                "PC"
+            ],
+            [
+                "GTA V",
+                "PlayStation 4"
+            ],
+            [
+                "Fortnite",
+                "PlayStation 4"
+            ]
+        ]
+    },
+    {
+        "id": "32d0dc4b",
+        "nome": "Ana",
+        "sobrenome": "Martins Silva",
+        "email": "ana6wz@fastmail.com",
+        "idade": "34.0",
+        "data de nascimento": "1990-10-02",
+        "cidade": "Juiz de Fora",
+        "estado": "MG",
+        "hobbies": [
+            "futebol",
+            "mÃºsica",
+            "fotografia",
+            "nataÃ§Ã£o",
+            "leitura"
+        ],
+        "linguagens de programacao": [
+            "Java",
+            "Python",
+            "Kotlin",
+            "JavaScript",
+            "PHP"
+        ],
+        "jogos": [
+            [
+                "Fortnite",
+                "PlayStation 4"
+            ],
+            [
+                "The Witcher 3",
+                "Xbox One"
+            ]
+        ]
+    },
+    {
+        "id": "bb2d93e4",
+        "nome": "Maria",
+        "sobrenome": "Fernandes Correia Ribeiro",
+        "email": "pedro.oliveiraexample.com",
+        "idade": "19.0",
+        "data de nascimento": "2005-03-28",
+        "cidade": "Rio de Janeiro",
+        "estado": "RJ",
+        "hobbies": [
+            "fotografia",
+            "ciclismo",
+            "nataÃ§Ã£o"
+        ],
+        "linguagens de programacao": [
+            "Ruby",
+            "PHP"
+        ],
+        "jogos": [
+            [
+                "Minecraft",
+                "PC"
+            ],
+            [
+                "Valorant",
+                "PC"
+            ],
+            [
+                "Among Us",
+                "Mobile"
+            ],
+            [
+                "The Witcher 3",
+                "Xbox One"
+            ],
+            [
+                "Cyberpunk 2077",
+                "PC"
+            ]
+        ]
+    },
+    {
+        "id": "4894e523",
+        "nome": "Carlos",
+        "sobrenome": "Rocha Martins Souza",
+        "email": "carlos4@mailservice.com",
+        "idade": "22.0",
+        "data de nascimento": "2002-08-09",
+        "cidade": "Campinas",
+        "estado": "SP",
+        "hobbies": [],
+        "linguagens de programacao": [
+            "Go"
+        ],
+        "jogos": [
+            [
+                "The Witcher 3",
+                "Xbox One"
+            ]
+        ]
+    },
+    {
+        "id": "b993299f",
+        "nome": "Carla",
+        "sobrenome": "Rodrigues",
+        "email": "carla3k@webmail.net",
+        "idade": "48.0",
+        "data de nascimento": "1976-06-09",
+        "cidade": "Petropolis",
+        "estado": "RJ",
+        "hobbies": [
+            "cozinhar"
+        ],
+        "linguagens de programacao": [
+            "JavaScript",
+            "Swift",
+            "Java"
+        ],
+        "jogos": [
+            [
+                "GTA V",
+                "PlayStation 4"
+            ],
+            [
+                "The Witcher 3",
+                "Xbox One"
+            ],
+            [
+                "Overwatch",
+                "PC"
+            ],
+            [
+                "Among Us",
+                "Mobile"
+            ]
+        ]
+    },
+    {
+        "id": "176f60dc",
+        "nome": "Beatriz",
+        "sobrenome": "Almeida Lima Costa",
+        "email": "beatrizpc@freemail.com",
+        "idade": "45.0",
+        "data de nascimento": "1979-03-23",
+        "cidade": "Curitiba",
+        "estado": "PR",
+        "hobbies": [],
+        "linguagens de programacao": [
+            "Go",
+            "Swift",
+            "Ruby",
+            "C#",
+            "PHP"
+        ],
+        "jogos": [
+            [
+                "Cyberpunk 2077",
+                "PC"
+            ],
+            [
+                "Overwatch",
+                "PC"
+            ],
+            [
+                "Apex Legends",
+                "PC"
+            ]
+        ]
+    },
+    {
+        "id": "e743f4c4",
+        "nome": "Guilherme",
+        "sobrenome": "Moraes Souza Santos",
+        "email": "guilherme84d@webmail.net",
+        "idade": "33.0",
+        "data de nascimento": "1991-03-25",
+        "cidade": "Rio de Janeiro",
+        "estado": "Não Informado",
+        "hobbies": [],
+        "linguagens de programacao": [
+            "C#",
+            "Java",
+            "Python"
+        ],
+        "jogos": [
+            [
+                "GTA V",
+                "PlayStation 4"
+            ],
+            [
+                "Apex Legends",
+                "PC"
+            ],
+            [
+                "Overwatch",
+                "PC"
+            ],
+            [
+                "Among Us",
+                "Mobile"
+            ]
+        ]
+    },
+    {
+        "id": "1e672365",
+        "nome": "Matheus",
+        "sobrenome": "Correia Carvalho",
+        "email": "matheus6u@webmail.net",
+        "idade": "26.0",
+        "data de nascimento": "1998-10-21",
+        "cidade": "Petropolis",
+        "estado": "RJ",
+        "hobbies": [
+            "nataÃ§Ã£o",
+            "cinema",
+            "cozinhar",
+            "ciclismo"
+        ],
+        "linguagens de programacao": [
+            "Java",
+            "JavaScript",
+            "C#"
+        ],
+        "jogos": [
+            [
+                "League of Legends",
+                "PC"
+            ],
+            [
+                "GTA V",
+                "PlayStation 4"
+            ],
+            [
+                "Apex Legends",
+                "PC"
+            ],
+            [
+                "The Witcher 3",
+                "Xbox One"
+            ]
+        ]
+    },
+    {
+        "id": "e0c03323",
+        "nome": "Rafael",
+        "sobrenome": "Oliveira AraÃºjo Dias",
+        "email": "rafaelbm1@webmail.net",
+        "idade": "38.0",
+        "data de nascimento": "1985-12-01",
+        "cidade": "Belo Horizonte",
+        "estado": "MG",
+        "hobbies": [
+            "cozinhar",
+            "ciclismo",
+            "cinema",
+            "fotografia",
+            "mÃºsica"
+        ],
+        "linguagens de programacao": [
+            "C#",
+            "Ruby"
+        ],
+        "jogos": [
+            [
+                "Overwatch",
+                "PC"
+            ],
+            [
+                "GTA V",
+                "PlayStation 4"
+            ],
+            [
+                "Fortnite",
+                "PlayStation 4"
+            ],
+            [
+                "Minecraft",
+                "PC"
+            ]
+        ]
+    },
+    {
+        "id": "44be4413",
+        "nome": "Ana",
+        "sobrenome": "Rocha Carvalho Correia",
+        "email": "anauuy@inbox.org",
+        "idade": "35.0",
+        "data de nascimento": "1989-04-27",
+        "cidade": "SÃ£o Paulo",
+        "estado": "SP",
+        "hobbies": [],
+        "linguagens de programacao": [
+            "Kotlin",
+            "Ruby"
+        ],
+        "jogos": [
+            [
+                "League of Legends",
+                "PC"
+            ],
+            [
+                "GTA V",
+                "PlayStation 4"
+            ],
+            [
+                "Overwatch",
+                "PC"
+            ],
+            [
+                "Minecraft",
+                "PC"
+            ],
+            [
+                "The Witcher 3",
+                "Xbox One"
+            ]
+        ]
+    },
+    {
+        "id": "1ab3c982",
+        "nome": "Fernanda",
+        "sobrenome": "Lima Costa",
+        "email": "fernanda8zw@randommail.com",
+        "idade": "41.0",
+        "data de nascimento": "1983-06-14",
+        "cidade": "Rio de Janeiro",
+        "estado": "RJ",
+        "hobbies": [
+            "cinema",
+            "ciclismo",
+            "pintura"
+        ],
+        "linguagens de programacao": [
+            "Ruby",
+            "C#",
+            "Python",
+            "C++",
+            "Kotlin"
+        ],
+        "jogos": [
+            [
+                "Apex Legends",
+                "PC"
+            ]
+        ]
+    },
+    {
+        "id": "308598c4",
+        "nome": "Ana",
+        "sobrenome": "Moraes Souza Rocha",
+        "email": "anad@webmail.net",
+        "idade": "48.0",
+        "data de nascimento": "1976-08-19",
+        "cidade": "Rio de Janeiro",
+        "estado": "RJ",
+        "hobbies": [
+            "cinema",
+            "fotografia",
+            "nataÃ§Ã£o",
+            "viagem",
+            "pintura"
+        ],
+        "linguagens de programacao": [
+            "Swift",
+            "Kotlin"
+        ],
+        "jogos": [
+            [
+                "GTA V",
+                "PlayStation 4"
+            ],
+            [
+                "Fortnite",
+                "PlayStation 4"
+            ]
+        ]
+    },
+    {
+        "id": "0a5e1000",
+        "nome": "Carla",
+        "sobrenome": "Souza",
+        "email": "carlafa8@webmail.net",
+        "idade": "20.0",
+        "data de nascimento": "2004-03-04",
+        "cidade": "Fortaleza",
+        "estado": "CE",
+        "hobbies": [],
+        "linguagens de programacao": [
+            "Go",
+            "C++",
+            "Kotlin",
+            "Java",
+            "Python"
+        ],
+        "jogos": [
+            [
+                "Minecraft",
+                "PC"
+            ]
+        ]
+    },
+    {
+        "id": "dd699dbf",
+        "nome": "Lucas",
+        "sobrenome": "Fernandes Santos",
+        "email": "lucasf@webmail.net",
+        "idade": "28.0",
+        "data de nascimento": "1996-03-26",
+        "cidade": "Curitiba",
+        "estado": "PR",
+        "hobbies": [
+            "cinema",
+            "fotografia"
+        ],
+        "linguagens de programacao": [
+            "Python",
+            "Kotlin",
+            "Go",
+            "JavaScript"
+        ],
+        "jogos": [
+            [
+                "Among Us",
+                "Mobile"
+            ]
+        ]
+    },
+    {
+        "id": "f01ab056",
+        "nome": "Guilherme",
+        "sobrenome": "Oliveira Barbosa",
+        "email": "guilhermea3@fastmail.com",
+        "idade": "42.0",
+        "data de nascimento": "1981-11-13",
+        "cidade": "Campinas",
+        "estado": "SP",
+        "hobbies": [
+            "cinema"
+        ],
+        "linguagens de programacao": [
+            "Go",
+            "Java",
+            "Swift",
+            "C++"
+        ],
+        "jogos": []
+    },
+    {
+        "id": "a909c919",
+        "nome": "Julia",
+        "sobrenome": "Carvalho Fernandes Martins",
+        "email": "juliae@inbox.org",
+        "idade": "36.0",
+        "data de nascimento": "1988-05-02",
+        "cidade": "BrasÃ­lia",
+        "estado": "DF",
+        "hobbies": [],
+        "linguagens de programacao": [
+            "Java"
+        ],
+        "jogos": [
+            [
+                "Minecraft",
+                "PC"
+            ]
+        ]
+    },
+    {
+        "id": "1052a137",
+        "nome": "Julia",
+        "sobrenome": "Almeida Lima Carvalho",
+        "email": "juliagwf@fastmail.com",
+        "idade": "47.0",
+        "data de nascimento": "1976-12-21",
+        "cidade": "SÃ£o Paulo",
+        "estado": "SP",
+        "hobbies": [
+            "fotografia",
+            "mÃºsica",
+            "futebol"
+        ],
+        "linguagens de programacao": [],
+        "jogos": [
+            [
+                "Fortnite",
+                "PlayStation 4"
+            ],
+            [
+                "The Witcher 3",
+                "Xbox One"
+            ]
+        ]
+    },
+    {
+        "id": "3612fbfa",
+        "nome": "Sofia",
+        "sobrenome": "Correia Barbosa Pereira",
+        "email": "sofiajb@fastmail.com",
+        "idade": "Não Informado",
+        "data de nascimento": "1981-03-06",
+        "cidade": "Rio de Janeiro",
+        "estado": "RJ",
+        "hobbies": [
+            "cinema",
+            "futebol",
+            "fotografia"
+        ],
+        "linguagens de programacao": [
+            "Python"
+        ],
+        "jogos": []
+    },
+    {
+        "id": "45cb04d7",
+        "nome": "LuÃ­s",
+        "sobrenome": "Pereira",
+        "email": "luÃ­sh@inbox.org",
+        "idade": "31.0",
+        "data de nascimento": "20.06.1996",
+        "cidade": "Porto Alegre",
+        "estado": "RS",
+        "hobbies": [],
+        "linguagens de programacao": [
+            "Python",
+            "PHP",
+            "Kotlin",
+            "Go",
+            "Ruby"
+        ],
+        "jogos": [
+            [
+                "League of Legends",
+                "PC"
+            ],
+            [
+                "GTA V",
+                "PlayStation 4"
+            ],
+            [
+                "Valorant",
+                "PC"
+            ],
+            [
+                "Fortnite",
+                "PlayStation 4"
+            ],
+            [
+                "Apex Legends",
+                "PC"
+            ]
+        ]
+    },
+    {
+        "id": "14ca89e8",
+        "nome": "Ana",
+        "sobrenome": "Rodrigues Gomes",
+        "email": "anahi7@webmail.net",
+        "idade": "40.0",
+        "data de nascimento": "1984-08-23",
+        "cidade": "Petropolis",
+        "estado": "RJ",
+        "hobbies": [
+            "viagem",
+            "futebol",
+            "leitura",
+            "nataÃ§Ã£o"
+        ],
+        "linguagens de programacao": [
+            "Go",
+            "C#",
+            "Java",
+            "Swift"
+        ],
+        "jogos": [
+            [
+                "Apex Legends",
+                "PC"
+            ],
+            [
+                "Overwatch",
+                "PC"
+            ],
+            [
+                "Valorant",
+                "PC"
+            ]
+        ]
+    },
+    {
+        "id": "f734c476",
+        "nome": "Bruno",
+        "sobrenome": "Ribeiro Rocha Almeida",
+        "email": "brunobsz@randommail.com",
+        "idade": "28.0",
+        "data de nascimento": "1996-03-05",
+        "cidade": "Curitiba",
+        "estado": "PR",
+        "hobbies": [
+            "cozinhar",
+            "viagem",
+            "leitura"
+        ],
+        "linguagens de programacao": [
+            "Kotlin",
+            "PHP",
+            "Java",
+            "C++"
+        ],
+        "jogos": [
+            [
+                "GTA V",
+                "PlayStation 4"
+            ],
+            [
+                "Fortnite",
+                "PlayStation 4"
+            ],
+            [
+                "Overwatch",
+                "PC"
+            ],
+            [
+                "Apex Legends",
+                "PC"
+            ],
+            [
+                "Valorant",
+                "PC"
+            ]
+        ]
+    },
+    {
+        "id": "a84e18cc",
+        "nome": "Bruno",
+        "sobrenome": "Dias",
+        "email": "bruno11@freemail.com",
+        "idade": "40.0",
+        "data de nascimento": "1984-05-05",
+        "cidade": "Curitiba",
+        "estado": "PR",
+        "hobbies": [
+            "viagem"
+        ],
+        "linguagens de programacao": [
+            "Go",
+            "Java",
+            "C#",
+            "JavaScript",
+            "Ruby"
+        ],
+        "jogos": [
+            [
+                "Fortnite",
+                "PlayStation 4"
+            ],
+            [
+                "Cyberpunk 2077",
+                "PC"
+            ],
+            [
+                "Among Us",
+                "Mobile"
+            ],
+            [
+                "GTA V",
+                "PlayStation 4"
+            ]
+        ]
+    },
+    {
+        "id": "0d149de4",
+        "nome": "Guilherme",
+        "sobrenome": "Lima Souza Rocha",
+        "email": "guilhermela@inbox.org",
+        "idade": "39.0",
+        "data de nascimento": "1985-06-26",
+        "cidade": "Manaus",
+        "estado": "AM",
+        "hobbies": [
+            "mÃºsica",
+            "viagem",
+            "leitura"
+        ],
+        "linguagens de programacao": [
+            "Kotlin",
+            "Swift",
+            "PHP",
+            "Go"
+        ],
+        "jogos": [
+            [
+                "Valorant",
+                "PC"
+            ]
+        ]
+    },
+    {
+        "id": "e03e7966",
+        "nome": "Fernanda",
+        "sobrenome": "Ribeiro",
+        "email": "fernanda9s5@example.com",
+        "idade": "34.0",
+        "data de nascimento": "1990-05-14",
+        "cidade": "Volta Redonda",
+        "estado": "RJ",
+        "hobbies": [
+            "cozinhar",
+            "viagem",
+            "pintura"
+        ],
+        "linguagens de programacao": [
+            "Python",
+            "Swift"
+        ],
+        "jogos": [
+            [
+                "Apex Legends",
+                "PC"
+            ],
+            [
+                "Valorant",
+                "PC"
+            ]
+        ]
+    },
+    {
+        "id": "96560ded",
+        "nome": "Rafael",
+        "sobrenome": "Moraes",
+        "email": "rafaell2@inbox.org",
+        "idade": "31.0",
+        "data de nascimento": "1993-07-19",
+        "cidade": "Manaus",
+        "estado": "AM",
+        "hobbies": [
+            "nataÃ§Ã£o",
+            "cozinhar"
+        ],
+        "linguagens de programacao": [
+            "Kotlin",
+            "Go",
+            "Swift"
+        ],
+        "jogos": [
+            [
+                "Cyberpunk 2077",
+                "PC"
+            ],
+            [
+                "Among Us",
+                "Mobile"
+            ]
+        ]
+    },
+    {
+        "id": "82067087",
+        "nome": "Maria",
+        "sobrenome": "Silva",
+        "email": "mariaee5@inbox.org",
+        "idade": "23.0",
+        "data de nascimento": "2001-03-06",
+        "cidade": "Petropolis",
+        "estado": "RJ",
+        "hobbies": [
+            "pintura",
+            "ciclismo"
+        ],
+        "linguagens de programacao": [],
+        "jogos": [
+            [
+                "Valorant",
+                "PC"
+            ],
+            [
+                "Among Us",
+                "Mobile"
+            ],
+            [
+                "Overwatch",
+                "PC"
+            ]
+        ]
+    },
+    {
+        "id": "64b5bccc",
+        "nome": "Julia",
+        "sobrenome": "Rocha Almeida",
+        "email": "juliakm8@webmail.net",
+        "idade": "44.0",
+        "data de nascimento": "1980-01-03",
+        "cidade": "Rio de Janeiro",
+        "estado": "RJ",
+        "hobbies": [
+            "ciclismo",
+            "mÃºsica",
+            "futebol"
+        ],
+        "linguagens de programacao": [
+            "C++",
+            "Kotlin",
+            "PHP",
+            "Swift",
+            "C#"
+        ],
+        "jogos": [
+            [
+                "League of Legends",
+                "PC"
+            ],
+            [
+                "Overwatch",
+                "PC"
+            ],
+            [
+                "Apex Legends",
+                "PC"
+            ],
+            [
+                "Cyberpunk 2077",
+                "PC"
+            ],
+            [
+                "Among Us",
+                "Mobile"
+            ]
+        ]
+    },
+    {
+        "id": "be552028",
+        "nome": "Rafael",
+        "sobrenome": "Lima Oliveira Barbosa",
+        "email": "rafael0@mailservice.com",
+        "idade": "44.0",
+        "data de nascimento": "1980-04-19",
+        "cidade": "Salvador",
+        "estado": "BA",
+        "hobbies": [
+            "leitura",
+            "nataÃ§Ã£o",
+            "viagem",
+            "mÃºsica"
+        ],
+        "linguagens de programacao": [
+            "JavaScript",
+            "Java",
+            "PHP",
+            "C#",
+            "C++"
+        ],
+        "jogos": [
+            [
+                "Minecraft",
+                "PC"
+            ],
+            [
+                "Fortnite",
+                "PlayStation 4"
+            ],
+            [
+                "Among Us",
+                "Mobile"
+            ]
+        ]
+    },
+    {
+        "id": "defa6aa6",
+        "nome": "Beatriz",
+        "sobrenome": "Costa Lima Correia",
+        "email": "beatrizd@webmail.net",
+        "idade": "20.0",
+        "data de nascimento": "2004-03-24",
+        "cidade": "Juiz de Fora",
+        "estado": "MG",
+        "hobbies": [
+            "cinema",
+            "viagem",
+            "futebol",
+            "mÃºsica",
+            "ciclismo"
+        ],
+        "linguagens de programacao": [
+            "Go",
+            "Python"
+        ],
+        "jogos": [
+            [
+                "GTA V",
+                "PlayStation 4"
+            ],
+            [
+                "Valorant",
+                "PC"
+            ]
+        ]
+    },
+    {
+        "id": "b391669a",
+        "nome": "Carlos",
+        "sobrenome": "Rodrigues Pereira",
+        "email": "carlosea@webmail.net",
+        "idade": "36.0",
+        "data de nascimento": "1988-03-02",
+        "cidade": "Rio de Janeiro",
+        "estado": "RJ",
+        "hobbies": [
+            "mÃºsica",
+            "viagem"
+        ],
+        "linguagens de programacao": [],
+        "jogos": []
+    },
+    {
+        "id": "72a698c4",
+        "nome": "Beatriz",
+        "sobrenome": "Costa Fernandes Martins",
+        "email": "beatriz7u@inbox.org",
+        "idade": "26.0",
+        "data de nascimento": "Não Informado",
+        "cidade": "Juiz de Fora",
+        "estado": "MG",
+        "hobbies": [
+            "nataÃ§Ã£o",
+            "fotografia",
+            "mÃºsica",
+            "futebol"
+        ],
+        "linguagens de programacao": [
+            "PHP"
+        ],
+        "jogos": [
+            [
+                "Fortnite",
+                "PlayStation 4"
+            ],
+            [
+                "Overwatch",
+                "PC"
+            ]
+        ]
+    },
+    {
+        "id": "bfbb4de8",
+        "nome": "Maria",
+        "sobrenome": "Dias Lima AraÃºjo",
+        "email": "mariasv@inbox.org",
+        "idade": "22.0",
+        "data de nascimento": "2002-09-28",
+        "cidade": "Petropolis",
+        "estado": "RJ",
+        "hobbies": [
+            "nataÃ§Ã£o",
+            "futebol",
+            "ciclismo",
+            "viagem"
+        ],
+        "linguagens de programacao": [],
+        "jogos": [
+            [
+                "Overwatch",
+                "PC"
+            ],
+            [
+                "Fortnite",
+                "PlayStation 4"
+            ]
+        ]
+    },
+    {
+        "id": "e839133b",
+        "nome": "Lucas",
+        "sobrenome": "Rocha Gomes Correia",
+        "email": "lucas1x@mailservice.com",
+        "idade": "41.0",
+        "data de nascimento": "Não Informado",
+        "cidade": "Campinas",
+        "estado": "SP",
+        "hobbies": [
+            "futebol",
+            "fotografia"
+        ],
+        "linguagens de programacao": [
+            "Kotlin",
+            "JavaScript"
+        ],
+        "jogos": []
+    },
+    {
+        "id": "c3818351",
+        "nome": "Fernanda",
+        "sobrenome": "Costa Ribeiro",
+        "email": "fernanda1@mailservice.com",
+        "idade": "23.0",
+        "data de nascimento": "2001-07-23",
+        "cidade": "Belo Horizonte",
+        "estado": "MG",
+        "hobbies": [],
+        "linguagens de programacao": [
+            "Java",
+            "Python"
+        ],
+        "jogos": [
+            [
+                "Overwatch",
+                "PC"
+            ]
+        ]
+    },
+    {
+        "id": "d3409ac4",
+        "nome": "Ana",
+        "sobrenome": "Carvalho",
+        "email": "anal7p@randommail.com",
+        "idade": "29.0",
+        "data de nascimento": "1995-01-25",
+        "cidade": "Petropolis",
+        "estado": "RJ",
+        "hobbies": [
+            "pintura",
+            "cinema",
+            "mÃºsica",
+            "futebol",
+            "leitura"
+        ],
+        "linguagens de programacao": [
+            "JavaScript",
+            "Swift",
+            "C#",
+            "Go"
+        ],
+        "jogos": [
+            [
+                "Minecraft",
+                "PC"
+            ]
+        ]
+    },
+    {
+        "id": "41936061",
+        "nome": "Mariana",
+        "sobrenome": "Souza Martins",
+        "email": "mariana6@inbox.org",
+        "idade": "45.0",
+        "data de nascimento": "1978-11-21",
+        "cidade": "Belo Horizonte",
+        "estado": "MG",
+        "hobbies": [
+            "mÃºsica",
+            "ciclismo"
+        ],
+        "linguagens de programacao": [
+            "Python",
+            "Ruby",
+            "C#",
+            "Swift"
+        ],
+        "jogos": [
+            [
+                "GTA V",
+                "PlayStation 4"
+            ]
+        ]
+    },
+    {
+        "id": "22aecc6b",
+        "nome": "Camila",
+        "sobrenome": "Gomes Dias Moraes",
+        "email": "camilabh@fastmail.com",
+        "idade": "38.0",
+        "data de nascimento": "1986-07-05",
+        "cidade": "Manaus",
+        "estado": "Não Informado",
+        "hobbies": [
+            "ciclismo",
+            "leitura",
+            "cozinhar"
+        ],
+        "linguagens de programacao": [
+            "Java",
+            "Ruby"
+        ],
+        "jogos": [
+            [
+                "The Witcher 3",
+                "Xbox One"
+            ]
+        ]
+    },
+    {
+        "id": "16ac75ba",
+        "nome": "Larissa",
+        "sobrenome": "Oliveira Ribeiro Silva",
+        "email": "larissawkq@fastmail.com",
+        "idade": "30.0",
+        "data de nascimento": "1993-12-04",
+        "cidade": "Petropolis",
+        "estado": "RJ",
+        "hobbies": [
+            "viagem"
+        ],
+        "linguagens de programacao": [
+            "C++",
+            "Java",
+            "C#",
+            "JavaScript"
+        ],
+        "jogos": [
+            [
+                "Among Us",
+                "Mobile"
+            ]
+        ]
+    },
+    {
+        "id": "be43ff75",
+        "nome": "Carla",
+        "sobrenome": "AraÃºjo Santos Dias",
+        "email": "carla8@randommail.com",
+        "idade": "44.0",
+        "data de nascimento": "1979-11-08",
+        "cidade": "Curitiba",
+        "estado": "PR",
+        "hobbies": [
+            "mÃºsica"
+        ],
+        "linguagens de programacao": [],
+        "jogos": [
+            [
+                "Valorant",
+                "PC"
+            ],
+            [
+                "Cyberpunk 2077",
+                "PC"
+            ],
+            [
+                "GTA V",
+                "PlayStation 4"
+            ],
+            [
+                "Fortnite",
+                "PlayStation 4"
+            ]
+        ]
+    },
+    {
+        "id": "50ec8818",
+        "nome": "Mariana",
+        "sobrenome": "Rocha Barbosa",
+        "email": "mariana0@fastmail.com",
+        "idade": "29.0",
+        "data de nascimento": "1995-01-28",
+        "cidade": "Petropolis",
+        "estado": "RJ",
+        "hobbies": [
+            "leitura",
+            "viagem",
+            "cinema"
+        ],
+        "linguagens de programacao": [
+            "Go",
+            "C++",
+            "Ruby"
+        ],
+        "jogos": []
+    },
+    {
+        "id": "315c291f",
+        "nome": "Guilherme",
+        "sobrenome": "Pereira Barbosa Souza",
+        "email": "guilherme5e@webmail.net",
+        "idade": "36.0",
+        "data de nascimento": "1988-06-13",
+        "cidade": "Recife",
+        "estado": "PE",
+        "hobbies": [
+            "mÃºsica",
+            "cinema",
+            "cozinhar",
+            "nataÃ§Ã£o"
+        ],
+        "linguagens de programacao": [
+            "Swift"
+        ],
+        "jogos": [
+            [
+                "The Witcher 3",
+                "Xbox One"
+            ],
+            [
+                "Overwatch",
+                "PC"
+            ],
+            [
+                "Fortnite",
+                "PlayStation 4"
+            ],
+            [
+                "Among Us",
+                "Mobile"
+            ]
+        ]
+    },
+    {
+        "id": "9f446547",
+        "nome": "JoÃ£o",
+        "sobrenome": "Silva Almeida Correia",
+        "email": "joÃ£oy@inbox.org",
+        "idade": "28.0",
+        "data de nascimento": "1996-03-25",
+        "cidade": "Juiz de Fora",
+        "estado": "MG",
+        "hobbies": [
+            "fotografia"
+        ],
+        "linguagens de programacao": [
+            "Swift",
+            "Kotlin",
+            "C#",
+            "Java"
+        ],
+        "jogos": [
+            [
+                "Apex Legends",
+                "PC"
+            ]
+        ]
+    },
+    {
+        "id": "c8799bd4",
+        "nome": "Bruno",
+        "sobrenome": "Silva Dias Rocha",
+        "email": "brunoe@randommail.com",
+        "idade": "47.0",
+        "data de nascimento": "1976-12-25",
+        "cidade": "BrasÃ­lia",
+        "estado": "DF",
+        "hobbies": [
+            "cinema",
+            "nataÃ§Ã£o",
+            "cozinhar",
+            "fotografia"
+        ],
+        "linguagens de programacao": [
+            "JavaScript",
+            "Go",
+            "Ruby"
+        ],
+        "jogos": []
+    },
+    {
+        "id": "04b146fc",
+        "nome": "Ana",
+        "sobrenome": "Moraes Pereira Ribeiro",
+        "email": "anaat@example.com",
+        "idade": "45.0",
+        "data de nascimento": "1978-11-09",
+        "cidade": "Recife",
+        "estado": "PE",
+        "hobbies": [
+            "viagem"
+        ],
+        "linguagens de programacao": [],
+        "jogos": [
+            [
+                "Overwatch",
+                "PC"
+            ],
+            [
+                "Valorant",
+                "PC"
+            ],
+            [
+                "GTA V",
+                "PlayStation 4"
+            ]
+        ]
+    },
+    {
+        "id": "7043c6b1",
+        "nome": "Guilherme",
+        "sobrenome": "Dias Fernandes",
+        "email": "guilhermecl@fastmail.com",
+        "idade": "41.0",
+        "data de nascimento": "1983-03-19",
+        "cidade": "Não Informado",
+        "estado": "Não Informado",
+        "hobbies": [
+            "fotografia",
+            "nataÃ§Ã£o",
+            "mÃºsica",
+            "viagem"
+        ],
+        "linguagens de programacao": [
+            "Python",
+            "Kotlin",
+            "PHP",
+            "C++",
+            "Swift"
+        ],
+        "jogos": [
+            [
+                "Overwatch",
+                "PC"
+            ]
+        ]
+    },
+    {
+        "id": "e3f891ab",
+        "nome": "Carla",
+        "sobrenome": "Ribeiro Moraes",
+        "email": "carlam@inbox.org",
+        "idade": "33.0",
+        "data de nascimento": "1991-06-02",
+        "cidade": "Juiz de Fora",
+        "estado": "MG",
+        "hobbies": [
+            "fotografia",
+            "futebol",
+            "mÃºsica"
+        ],
+        "linguagens de programacao": [
+            "Python",
+            "Swift",
+            "JavaScript"
+        ],
+        "jogos": [
+            [
+                "Among Us",
+                "Mobile"
+            ],
+            [
+                "League of Legends",
+                "PC"
+            ]
+        ]
+    },
+    {
+        "id": "8bcc1628",
+        "nome": "Mariana",
+        "sobrenome": "Costa",
+        "email": "marianasch@freemail.com",
+        "idade": "31.0",
+        "data de nascimento": "1993-01-05",
+        "cidade": "Belo Horizonte",
+        "estado": "MG",
+        "hobbies": [
+            "leitura"
+        ],
+        "linguagens de programacao": [],
+        "jogos": [
+            [
+                "League of Legends",
+                "PC"
+            ]
+        ]
+    },
+    {
+        "id": "df928c7b",
+        "nome": "Lucas",
+        "sobrenome": "Moraes Almeida",
+        "email": "lucasn@webmail.net",
+        "idade": "33.0",
+        "data de nascimento": "1991-06-10",
+        "cidade": "SÃ£o Paulo",
+        "estado": "SP",
+        "hobbies": [],
+        "linguagens de programacao": [
+            "C#"
+        ],
+        "jogos": []
+    },
+    {
+        "id": "04cbcc69",
+        "nome": "Beatriz",
+        "sobrenome": "Souza Pereira",
+        "email": "beatrizg0j@freemail.com",
+        "idade": "27.0",
+        "data de nascimento": "Não Informado",
+        "cidade": "Salvador",
+        "estado": "BA",
+        "hobbies": [
+            "cinema",
+            "ciclismo",
+            "pintura"
+        ],
+        "linguagens de programacao": [
+            "C++",
+            "PHP",
+            "Ruby"
+        ],
+        "jogos": [
+            [
+                "Cyberpunk 2077",
+                "PC"
+            ]
+        ]
+    },
+    {
+        "id": "969c7acc",
+        "nome": "Mariana",
+        "sobrenome": "Almeida Silva",
+        "email": "mariana0@mail.com",
+        "idade": "29.0",
+        "data de nascimento": "1995-11-22",
+        "cidade": "Rio de Janeiro",
+        "estado": "RJ",
+        "hobbies": [
+            "mÃºsica",
+            "viagem"
+        ],
+        "linguagens de programacao": [
+            "Java",
+            "C#"
+        ],
+        "jogos": [
+            [
+                "The Witcher 3",
+                "Xbox One"
+            ]
+        ]
+    },
+    {
+        "id": "ca4fc87a",
+        "nome": "Mariana",
+        "sobrenome": "Almeida Silva",
+        "email": "joaogmail.com",
+        "idade": "29.0",
+        "data de nascimento": "1995-11-22",
+        "cidade": "Rio de Janeiro",
+        "estado": "RJ",
+        "hobbies": [
+            "mÃºsica",
+            "viagem"
+        ],
+        "linguagens de programacao": [
+            "Java",
+            "C#"
+        ],
+        "jogos": [
+            [
+                "The Witcher 3",
+                "Xbox One"
+            ]
+        ]
+    },
+    {
+        "id": "08e9f228",
+        "nome": "Mariana",
+        "sobrenome": "Almeida Silva",
+        "email": "mariana2@mail.com",
+        "idade": "Não Informado",
+        "data de nascimento": "1995-11-22",
+        "cidade": "Rio de Janeiro",
+        "estado": "RJ",
+        "hobbies": [
+            "mÃºsica",
+            "viagem"
+        ],
+        "linguagens de programacao": [
+            "Java",
+            "C#"
+        ],
+        "jogos": [
+            [
+                "The Witcher 3",
+                "Xbox One"
+            ]
+        ]
+    },
+    {
+        "id": "26a53093",
+        "nome": "Larissa",
+        "sobrenome": "Santos Ribeiro",
+        "email": "larissarnl@randommail.com",
+        "idade": "Não Informado",
+        "data de nascimento": "1977-08-05",
+        "cidade": "Porto Alegre",
+        "estado": "RS",
+        "hobbies": [
+            "ciclismo",
+            "cozinhar"
+        ],
+        "linguagens de programacao": [
+            "PHP",
+            "JavaScript",
+            "C++",
+            "Python"
+        ],
+        "jogos": [
+            [
+                "Overwatch",
+                "PC"
+            ],
+            [
+                "Fortnite",
+                "PlayStation 4"
+            ]
+        ]
+    },
+    {
+        "id": "8284af6b",
+        "nome": "LuÃ­s",
+        "sobrenome": "Almeida Gomes Ribeiro",
+        "email": "luÃ­sl4@fastmail.com",
+        "idade": "43.0",
+        "data de nascimento": "1980-12-27",
+        "cidade": "Recife",
+        "estado": "PE",
+        "hobbies": [
+            "pintura"
+        ],
+        "linguagens de programacao": [
+            "Python",
+            "Java"
+        ],
+        "jogos": [
+            [
+                "Fortnite",
+                "PlayStation 4"
+            ]
+        ]
+    },
+    {
+        "id": "ca4fc87a",
+        "nome": "Mariana",
+        "sobrenome": "Almeida Silva",
+        "email": "mariana1@mail.com",
+        "idade": "29.0",
+        "data de nascimento": "1995-11-22",
+        "cidade": "Não Informado",
+        "estado": "Não Informado",
+        "hobbies": [
+            "mÃºsica",
+            "viagem"
+        ],
+        "linguagens de programacao": [
+            "Java",
+            "C#"
+        ],
+        "jogos": [
+            [
+                "The Witcher 3",
+                "Xbox One"
+            ]
+        ]
+    },
+    {
+        "id": "1000e909",
+        "nome": "Ana",
+        "sobrenome": "Barbosa",
+        "email": "ana7n@mailservice.com",
+        "idade": "45.0",
+        "data de nascimento": "1979-06-11",
+        "cidade": "Juiz de Fora",
+        "estado": "Não Informado",
+        "hobbies": [
+            "ciclismo",
+            "fotografia"
+        ],
+        "linguagens de programacao": [
+            "C++",
+            "PHP",
+            "Ruby",
+            "Go",
+            "C#"
+        ],
+        "jogos": [
+            [
+                "Overwatch",
+                "PC"
+            ],
+            [
+                "Apex Legends",
+                "PC"
+            ],
+            [
+                "Minecraft",
+                "PC"
+            ]
+        ]
+    }
+]

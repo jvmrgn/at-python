@@ -1,0 +1,1910 @@
+[
+    {
+        "plataforma": "Xbox",
+        "jogos": [
+            {
+                "nome_jogo": "Alien: Isolation",
+                "dados_jogo": {
+                    "Desenvolvedora": "The Creative Assembly",
+                    "Publicadora": "Sega",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Angry Birds Star Wars",
+                "dados_jogo": {
+                    "Desenvolvedora": "Rovio",
+                    "Publicadora": "Activision",
+                    "Ano": "2013",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Another World",
+                "dados_jogo": {
+                    "Desenvolvedora": "Martial Hesse-Dreville",
+                    "Publicadora": "The Digital Lounge",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Arena of Fate",
+                "dados_jogo": {
+                    "Desenvolvedora": "Crytek",
+                    "Publicadora": "Crytek",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Assassin's Creed IV: Black Flag",
+                "dados_jogo": {
+                    "Desenvolvedora": "Ubisoft Montreal",
+                    "Publicadora": "Ubisoft",
+                    "Ano": "2013",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": "[1]"
+                }
+            },
+            {
+                "nome_jogo": "Assassin's Creed: Unity",
+                "dados_jogo": {
+                    "Desenvolvedora": "Ubisoft Toronto",
+                    "Publicadora": "Ubisoft",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": "[2]"
+                }
+            },
+            {
+                "nome_jogo": "Assassin's Creed Syndicate",
+                "dados_jogo": {
+                    "Desenvolvedora": "Ubisoft Quebec",
+                    "Publicadora": "Ubisoft",
+                    "Ano": "2015",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Assassin's Creed Origins",
+                "dados_jogo": {
+                    "Desenvolvedora": "Ubisoft Montreal",
+                    "Publicadora": "Ubisoft",
+                    "Ano": "2017",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Assassin's Creed Odyssey",
+                "dados_jogo": {
+                    "Desenvolvedora": "Ubisoft Quebec",
+                    "Publicadora": "Ubisoft",
+                    "Ano": "2018",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Batman: Arkham Knight",
+                "dados_jogo": {
+                    "Desenvolvedora": "Rocksteady Studios",
+                    "Publicadora": "Warner Bros. Interactive Entertainment",
+                    "Ano": "2015",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": "[3]"
+                }
+            },
+            {
+                "nome_jogo": "Battlefield 4",
+                "dados_jogo": {
+                    "Desenvolvedora": "DICE",
+                    "Publicadora": "Electronic Arts",
+                    "Ano": "2013",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": "[4]"
+                }
+            },
+            {
+                "nome_jogo": "Battlefield: Hardline",
+                "dados_jogo": {
+                    "Desenvolvedora": "Visceral Games",
+                    "Publicadora": "Electronic Arts",
+                    "Ano": "2015",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": "[5]"
+                }
+            },
+            {
+                "nome_jogo": "Below",
+                "dados_jogo": {
+                    "Desenvolvedora": "Capybara Games",
+                    "Publicadora": "Microsoft Studios",
+                    "Ano": "ASA",
+                    "Exclusivo": "Microsoft",
+                    "Kinect": "Não",
+                    "Ref.": "[6]"
+                }
+            },
+            {
+                "nome_jogo": "Bioshock Infinite",
+                "dados_jogo": {
+                    "Desenvolvedora": "Irrational Games",
+                    "Publicadora": "2K Games",
+                    "Ano": "2013",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Call of Duty: Advanced Warfare",
+                "dados_jogo": {
+                    "Desenvolvedora": "Sledgehammer Games",
+                    "Publicadora": "Activision",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": "[7]"
+                }
+            },
+            {
+                "nome_jogo": "Call of Duty: Ghosts",
+                "dados_jogo": {
+                    "Desenvolvedora": "Infinity Ward",
+                    "Publicadora": "Activision",
+                    "Ano": "2013",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": "[8]"
+                }
+            },
+            {
+                "nome_jogo": "Carmageddon: Reincarnation",
+                "dados_jogo": {
+                    "Desenvolvedora": "Stainless Games",
+                    "Publicadora": "Stainless Games",
+                    "Ano": "2015",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Castle Storm: Definitive Edition",
+                "dados_jogo": {
+                    "Desenvolvedora": "Zen Studios",
+                    "Publicadora": "Zen Studios",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Chariot",
+                "dados_jogo": {
+                    "Desenvolvedora": "Frima Studio",
+                    "Publicadora": "Frima Studio",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Child of Light",
+                "dados_jogo": {
+                    "Desenvolvedora": "Ubisoft Montreal",
+                    "Publicadora": "Ubisoft",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Contrast",
+                "dados_jogo": {
+                    "Desenvolvedora": "Platform Compulsion Games",
+                    "Publicadora": "Platform Compulsion Games",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Costume Quest 2",
+                "dados_jogo": {
+                    "Desenvolvedora": "Double Fine Productions",
+                    "Publicadora": "Midnight City",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Crimson Dragon",
+                "dados_jogo": {
+                    "Desenvolvedora": "Grounding",
+                    "Publicadora": "Microsoft Studios",
+                    "Ano": "2013",
+                    "Exclusivo": "Sim",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Cities: Skylines",
+                "dados_jogo": {
+                    "Desenvolvedora": "Colossal Order",
+                    "Publicadora": "Paradox Interactive",
+                    "Ano": "2015",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Cuphead",
+                "dados_jogo": {
+                    "Desenvolvedora": "StudioMDHR Enterteinment",
+                    "Publicadora": "Microsoft Studios",
+                    "Ano": "2017",
+                    "Exclusivo": "Microsoft",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Cyberpunk 2077",
+                "dados_jogo": {
+                    "Desenvolvedora": "CD Projekt RED",
+                    "Publicadora": "CD Projekt RED",
+                    "Ano": "2015",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": "[9]"
+                }
+            },
+            {
+                "nome_jogo": "D4",
+                "dados_jogo": {
+                    "Desenvolvedora": "Access Games",
+                    "Publicadora": "Microsoft Studios",
+                    "Ano": "2014",
+                    "Exclusivo": "Sim",
+                    "Kinect": "Suportado",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Dance Central Spotlight",
+                "dados_jogo": {
+                    "Desenvolvedora": "Harmonix",
+                    "Publicadora": "Microsoft Studios",
+                    "Ano": "2014",
+                    "Exclusivo": "Sim",
+                    "Kinect": "Sim",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Dead by Daylight",
+                "dados_jogo": {
+                    "Desenvolvedora": "Behaviour Interactive",
+                    "Publicadora": "Starbreeze Studios",
+                    "Ano": "2017",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": "[10]"
+                }
+            },
+            {
+                "nome_jogo": "Dead Island 2",
+                "dados_jogo": {
+                    "Desenvolvedora": "Yager Development",
+                    "Publicadora": "Deep Silver",
+                    "Ano": "2015",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": "[11]"
+                }
+            },
+            {
+                "nome_jogo": "Dead or Alive 5: Last Round",
+                "dados_jogo": {
+                    "Desenvolvedora": "Team Ninja",
+                    "Publicadora": "Tecmo Koei",
+                    "Ano": "2015",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": "[12]"
+                }
+            },
+            {
+                "nome_jogo": "Dead Rising 3",
+                "dados_jogo": {
+                    "Desenvolvedora": "Capcom Vancouver",
+                    "Publicadora": "Capcom",
+                    "Ano": "2013",
+                    "Exclusivo": "Microsoft",
+                    "Kinect": "Suportado",
+                    "Ref.": "[13]"
+                }
+            },
+            {
+                "nome_jogo": "Destiny",
+                "dados_jogo": {
+                    "Desenvolvedora": "Bungie",
+                    "Publicadora": "Activision",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": "[14]"
+                }
+            },
+            {
+                "nome_jogo": "Defense Grid 2",
+                "dados_jogo": {
+                    "Desenvolvedora": "Hidden Path Entertainment",
+                    "Publicadora": "505 Games",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Devil May Cry 4 Special Edition",
+                "dados_jogo": {
+                    "Desenvolvedora": "Capcom",
+                    "Publicadora": "Capcom",
+                    "Ano": "2015",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": "[15]"
+                }
+            },
+            {
+                "nome_jogo": "Disney Infinity: Marvel Superheroes",
+                "dados_jogo": {
+                    "Desenvolvedora": "Avalanche Software",
+                    "Publicadora": "Microsoft Studios",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Diablo III",
+                "dados_jogo": {
+                    "Desenvolvedora": "Blizzard Entertainment",
+                    "Publicadora": "Blizzard Entertainment",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Divekick Addition Edition",
+                "dados_jogo": {
+                    "Desenvolvedora": "Iron Galaxy Studios",
+                    "Publicadora": "Iron Galaxy Studios",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "DmC: Devil May Cry Definitive Edition",
+                "dados_jogo": {
+                    "Desenvolvedora": "Capcom",
+                    "Publicadora": "Capcom",
+                    "Ano": "ASA",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": "[15]"
+                }
+            },
+            {
+                "nome_jogo": "Dragon Age: Inquisition",
+                "dados_jogo": {
+                    "Desenvolvedora": "BioWare",
+                    "Publicadora": "Electronic Arts",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Dragon Ball Xenoverse",
+                "dados_jogo": {
+                    "Desenvolvedora": "Dimps",
+                    "Publicadora": "Namco Bandai",
+                    "Ano": "2015",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Dying Light",
+                "dados_jogo": {
+                    "Desenvolvedora": "Techland",
+                    "Publicadora": "Warner Bros. Interactive",
+                    "Ano": "2015",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": "[16]"
+                }
+            },
+            {
+                "nome_jogo": "EA Sports UFC",
+                "dados_jogo": {
+                    "Desenvolvedora": "EA Canada",
+                    "Publicadora": "Electronic Arts",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": "[17][18]"
+                }
+            },
+            {
+                "nome_jogo": "EA Sports UFC 2",
+                "dados_jogo": {
+                    "Desenvolvedora": "EA Canada",
+                    "Publicadora": "Electronic Arts",
+                    "Ano": "2016",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "EA Sports UFC 3",
+                "dados_jogo": {
+                    "Desenvolvedora": "EA Canada",
+                    "Publicadora": "Electronic Arts",
+                    "Ano": "2018",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Fable Legends",
+                "dados_jogo": {
+                    "Desenvolvedora": "Lionhead Studios",
+                    "Publicadora": "Microsoft Studios",
+                    "Ano": "ASA",
+                    "Exclusivo": "Sim",
+                    "Kinect": "Suportado",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Fantasia: Music Evolved",
+                "dados_jogo": {
+                    "Desenvolvedora": "Harmonix Music Systems",
+                    "Publicadora": "Disney Interactive Studios",
+                    "Ano": "2014",
+                    "Exclusivo": "Sim",
+                    "Kinect": "Sim",
+                    "Ref.": "[19]"
+                }
+            },
+            {
+                "nome_jogo": "Far Cry 4",
+                "dados_jogo": {
+                    "Desenvolvedora": "Ubisoft Montreal",
+                    "Publicadora": "Ubisoft",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": "[20]"
+                }
+            },
+            {
+                "nome_jogo": "Fibbage",
+                "dados_jogo": {
+                    "Desenvolvedora": "Jackbox Games",
+                    "Publicadora": "Jackbox Games",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "FIFA 14",
+                "dados_jogo": {
+                    "Desenvolvedora": "EA Canada",
+                    "Publicadora": "Electronic Arts",
+                    "Ano": "2013",
+                    "Exclusivo": "Não",
+                    "Kinect": "Suportado",
+                    "Ref.": "[21]"
+                }
+            },
+            {
+                "nome_jogo": "FIFA 15",
+                "dados_jogo": {
+                    "Desenvolvedora": "EA Canada",
+                    "Publicadora": "Electronic Arts",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Suportado",
+                    "Ref.": "[22]"
+                }
+            },
+            {
+                "nome_jogo": "FIFA 16",
+                "dados_jogo": {
+                    "Desenvolvedora": "EA Canada",
+                    "Publicadora": "Electronic Arts",
+                    "Ano": "2015",
+                    "Exclusivo": "Não",
+                    "Kinect": "Suportado",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "FIFA 17",
+                "dados_jogo": {
+                    "Desenvolvedora": "EA Canada",
+                    "Publicadora": "Electronic Arts",
+                    "Ano": "2016",
+                    "Exclusivo": "Não",
+                    "Kinect": "Suportado",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "FIFA 18",
+                "dados_jogo": {
+                    "Desenvolvedora": "EA Canada",
+                    "Publicadora": "Electronic Arts",
+                    "Ano": "2017",
+                    "Exclusivo": "Não",
+                    "Kinect": "Suportado",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Fighter Within",
+                "dados_jogo": {
+                    "Desenvolvedora": "Daoka",
+                    "Publicadora": "Ubisoft",
+                    "Ano": "2013",
+                    "Exclusivo": "Sim",
+                    "Kinect": "Sim",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Final Fantasy XV",
+                "dados_jogo": {
+                    "Desenvolvedora": "Square Enix",
+                    "Publicadora": "Square Enix",
+                    "Ano": "2016",
+                    "Exclusivo": "Não",
+                    "Kinect": "ASA",
+                    "Ref.": "[23]"
+                }
+            },
+            {
+                "nome_jogo": "Final Fantasy Type-0 HD",
+                "dados_jogo": {
+                    "Desenvolvedora": "Square Enix",
+                    "Publicadora": "Square Enix",
+                    "Ano": "2015",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": "[24]"
+                }
+            },
+            {
+                "nome_jogo": "Forza Horizon 2",
+                "dados_jogo": {
+                    "Desenvolvedora": "Turn 10 Studios",
+                    "Publicadora": "Microsoft",
+                    "Ano": "2014",
+                    "Exclusivo": "Microsoft",
+                    "Kinect": "Suportado",
+                    "Ref.": "[25]"
+                }
+            },
+            {
+                "nome_jogo": "Forza Horizon 3",
+                "dados_jogo": {
+                    "Desenvolvedora": "Turn 10 Studios",
+                    "Publicadora": "Microsoft",
+                    "Ano": "2016",
+                    "Exclusivo": "Microsoft",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Forza Horizon 4",
+                "dados_jogo": {
+                    "Desenvolvedora": "Turn 10 Studios",
+                    "Publicadora": "Microsoft",
+                    "Ano": "2018",
+                    "Exclusivo": "Microsoft",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Forza Motorsport 5",
+                "dados_jogo": {
+                    "Desenvolvedora": "Turn 10 Studios",
+                    "Publicadora": "Microsoft",
+                    "Ano": "2013",
+                    "Exclusivo": "Sim",
+                    "Kinect": "Suportado",
+                    "Ref.": "[26]"
+                }
+            },
+            {
+                "nome_jogo": "Forza Motorsport 6",
+                "dados_jogo": {
+                    "Desenvolvedora": "Turn 10 Studios",
+                    "Publicadora": "Microsoft",
+                    "Ano": "2015",
+                    "Exclusivo": "Microsoft",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Forza Motorsport 7",
+                "dados_jogo": {
+                    "Desenvolvedora": "Turn 10 Studios",
+                    "Publicadora": "Microsoft",
+                    "Ano": "2017",
+                    "Exclusivo": "Microsoft",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Game of Thrones",
+                "dados_jogo": {
+                    "Desenvolvedora": "Telltale Games",
+                    "Publicadora": "Telltale Games",
+                    "Ano": "2014-2015",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Grand Theft Auto V",
+                "dados_jogo": {
+                    "Desenvolvedora": "Rockstar North",
+                    "Publicadora": "Rockstar Games",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": "[27]"
+                }
+            },
+            {
+                "nome_jogo": "Grand Theft Auto IV ( retrocompatibilidade )",
+                "dados_jogo": {
+                    "Desenvolvedora": "Rockstar North",
+                    "Publicadora": "Rockstar Games",
+                    "Ano": "2008 (Lançamento Original), 2017 (Retrocompatibilidade exclusiva no Xbox One)",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Guacamelee!: Super Turbo Champion Edition",
+                "dados_jogo": {
+                    "Desenvolvedora": "Drinkbox Studios",
+                    "Publicadora": "Drinkbox Studios",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Gears of War 4",
+                "dados_jogo": {
+                    "Desenvolvedora": "The Coalition",
+                    "Publicadora": "Microsoft",
+                    "Ano": "2016",
+                    "Exclusivo": "Microsoft",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Gears of War 5",
+                "dados_jogo": {
+                    "Desenvolvedora": "The Coalition",
+                    "Publicadora": "Microsoft",
+                    "Ano": "2019",
+                    "Exclusivo": "Microsoft",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Guigui: Original Life",
+                "dados_jogo": {
+                    "Desenvolvedora": "Songmoon Entertainment Inc",
+                    "Publicadora": "Microsoft Studios",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Suportado",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Halo 5: Guardians",
+                "dados_jogo": {
+                    "Desenvolvedora": "343 Industries",
+                    "Publicadora": "Microsoft Studios",
+                    "Ano": "2015",
+                    "Exclusivo": "Sim",
+                    "Kinect": "ASA",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Halo: Spartan Assault",
+                "dados_jogo": {
+                    "Desenvolvedora": "343 Industries, Vanguard Entertainment",
+                    "Publicadora": "Microsoft Studios",
+                    "Ano": "2013",
+                    "Exclusivo": "Microsoft",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Halo: The Master Chief Collection",
+                "dados_jogo": {
+                    "Desenvolvedora": "343 Industries",
+                    "Publicadora": "Microsoft Studios",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": "[28]"
+                }
+            },
+            {
+                "nome_jogo": "How To Survive: Storm Warning Edition",
+                "dados_jogo": {
+                    "Desenvolvedora": "Eko Software",
+                    "Publicadora": "505 Games",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Just Dance 2014",
+                "dados_jogo": {
+                    "Desenvolvedora": "Ubisoft",
+                    "Publicadora": "Ubisoft",
+                    "Ano": "2013",
+                    "Exclusivo": "Não",
+                    "Kinect": "Sim",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Just Dance 2015",
+                "dados_jogo": {
+                    "Desenvolvedora": "Ubisoft",
+                    "Publicadora": "Ubisoft",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Sim",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Killer Instinct",
+                "dados_jogo": {
+                    "Desenvolvedora": "Rare Ltd., Double Helix Games",
+                    "Publicadora": "Microsoft Studios",
+                    "Ano": "2013",
+                    "Exclusivo": "Não",
+                    "Kinect": "Suportado",
+                    "Ref.": "[29]"
+                }
+            },
+            {
+                "nome_jogo": "Kinect Sports Rivals",
+                "dados_jogo": {
+                    "Desenvolvedora": "Rare Ltd.",
+                    "Publicadora": "Microsoft Studios",
+                    "Ano": "2013",
+                    "Exclusivo": "Sim",
+                    "Kinect": "Sim",
+                    "Ref.": "[30]"
+                }
+            },
+            {
+                "nome_jogo": "Kingdom Hearts III",
+                "dados_jogo": {
+                    "Desenvolvedora": "Square Enix",
+                    "Publicadora": "Square Enix",
+                    "Ano": "Janeiro De 2019",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": "[31]"
+                }
+            },
+            {
+                "nome_jogo": "LEGO Batman 3: Beyond Gotham",
+                "dados_jogo": {
+                    "Desenvolvedora": "TT Games",
+                    "Publicadora": "Warner Bros. Interactive Entertainment",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "LEGO City Undercover",
+                "dados_jogo": {
+                    "Desenvolvedora": "TT Games",
+                    "Publicadora": "Warner Bros. Interactive Entertainment",
+                    "Ano": "2013, para Wii U, nos anos seguintes, para multiplataformas",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "LEGO DC Super Villains",
+                "dados_jogo": {
+                    "Desenvolvedora": "TT Games",
+                    "Publicadora": "Warner Bros. Interactive Entertainment",
+                    "Ano": "14 De Outubro De 2018",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "LEGO Harry Potter Collection",
+                "dados_jogo": {
+                    "Desenvolvedora": "TT Games",
+                    "Publicadora": "Warner Bros. Interactive Entertainment",
+                    "Ano": "Outubro De 2016 para PS4, Dezembro De 2017 Para XBOX ONE E Switch",
+                    "Exclusivo": "",
+                    "Kinect": "",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "LEGO Jurassic World",
+                "dados_jogo": {
+                    "Desenvolvedora": "TT Games",
+                    "Publicadora": "Warner Bros. Interactive Entertainment",
+                    "Ano": "2015",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "LEGO Marvel's Avengers",
+                "dados_jogo": {
+                    "Desenvolvedora": "TT Games",
+                    "Publicadora": "Warner Bros. Interactive Entertainment",
+                    "Ano": "2016",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "LEGO Marvel Super Heroes",
+                "dados_jogo": {
+                    "Desenvolvedora": "TT Games",
+                    "Publicadora": "Warner Bros. Interactive Entertainment",
+                    "Ano": "2013",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": "[32]"
+                }
+            },
+            {
+                "nome_jogo": "LEGO Marvel Super Heroes 2",
+                "dados_jogo": {
+                    "Desenvolvedora": "TT Games",
+                    "Publicadora": "Warner Bros. Interactive Entertainment",
+                    "Ano": "Março De 2018",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "LEGO Ninjago O Filme O Jogo",
+                "dados_jogo": {
+                    "Desenvolvedora": "TT Games",
+                    "Publicadora": "Warner Bros. Interactive Entertainment",
+                    "Ano": "2017",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "LEGO Os Incríveis",
+                "dados_jogo": {
+                    "Desenvolvedora": "TT Games",
+                    "Publicadora": "Warner Bros. Interactive Entertainment",
+                    "Ano": "12 De Junho De 2018",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "LEGO Star Wars: O Despertar Da Força",
+                "dados_jogo": {
+                    "Desenvolvedora": "TT Games",
+                    "Publicadora": "Warner Bros. Interactive Entertainment",
+                    "Ano": "2016",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "LEGO Star Wars III: The Clone Wars",
+                "dados_jogo": {
+                    "Desenvolvedora": "TT Games",
+                    "Publicadora": "Warner Bros. Interactive Entertainment",
+                    "Ano": "2011",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "LEGO The Hobbit",
+                "dados_jogo": {
+                    "Desenvolvedora": "TT Games",
+                    "Publicadora": "Warner Bros. Interactive Entertainment",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Limbo",
+                "dados_jogo": {
+                    "Desenvolvedora": "Playdead",
+                    "Publicadora": "Playdead",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Lords of the Fallen",
+                "dados_jogo": {
+                    "Desenvolvedora": "Deck 13",
+                    "Publicadora": "City Interactive",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": "[33]"
+                }
+            },
+            {
+                "nome_jogo": "Madden NFL 15",
+                "dados_jogo": {
+                    "Desenvolvedora": "Electronic Arts",
+                    "Publicadora": "Electronic Arts",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Madden NFL 25",
+                "dados_jogo": {
+                    "Desenvolvedora": "Electronic Arts",
+                    "Publicadora": "Electronic Arts",
+                    "Ano": "2013",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": "[34]"
+                }
+            },
+            {
+                "nome_jogo": "Mad Max",
+                "dados_jogo": {
+                    "Desenvolvedora": "Avalanche Studios",
+                    "Publicadora": "Warner Bros. Interactive",
+                    "Ano": "2015",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Max: The Curse of Brotherhood",
+                "dados_jogo": {
+                    "Desenvolvedora": "Press Play",
+                    "Publicadora": "Microsoft Studios",
+                    "Ano": "2013",
+                    "Exclusivo": "Microsoft",
+                    "Kinect": "Suportado",
+                    "Ref.": "[35]"
+                }
+            },
+            {
+                "nome_jogo": "Metal Gear Solid V: Ground Zeroes",
+                "dados_jogo": {
+                    "Desenvolvedora": "Kojima Productions",
+                    "Publicadora": "Konami",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": "[36]"
+                }
+            },
+            {
+                "nome_jogo": "Metal Gear Solid V: The Phantom Pain",
+                "dados_jogo": {
+                    "Desenvolvedora": "Kojima Productions",
+                    "Publicadora": "Konami",
+                    "Ano": "2015",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Metro 2033 Redux",
+                "dados_jogo": {
+                    "Desenvolvedora": "4A Games",
+                    "Publicadora": "Deep Silver",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": "[37]"
+                }
+            },
+            {
+                "nome_jogo": "Metro: Last Light Redux",
+                "dados_jogo": {
+                    "Desenvolvedora": "4A Games",
+                    "Publicadora": "Deep Silver",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": "[37]"
+                }
+            },
+            {
+                "nome_jogo": "Middle-earth: Shadow of Mordor",
+                "dados_jogo": {
+                    "Desenvolvedora": "Monolith Productions",
+                    "Publicadora": "Warner Bros. Interactive Entertainment",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Minecraft: Xbox One Edition",
+                "dados_jogo": {
+                    "Desenvolvedora": "Mojang, 4J Studios",
+                    "Publicadora": "Microsoft Studios",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Mirror's Edge 2",
+                "dados_jogo": {
+                    "Desenvolvedora": "DICE",
+                    "Publicadora": "Electronic Arts",
+                    "Ano": "ASA",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Mortal Kombat X",
+                "dados_jogo": {
+                    "Desenvolvedora": "NetherRealm Studios",
+                    "Publicadora": "Warner Bros.",
+                    "Ano": "2015",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": "[38]"
+                }
+            },
+            {
+                "nome_jogo": "Murdered: Soul Suspect",
+                "dados_jogo": {
+                    "Desenvolvedora": "Airtight Games",
+                    "Publicadora": "Square Enix",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Naruto Shippuden: Ultimate Ninja Storm 4",
+                "dados_jogo": {
+                    "Desenvolvedora": "CyberConnect2",
+                    "Publicadora": "Bandai Namco Games",
+                    "Ano": "2016",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": "[39]"
+                }
+            },
+            {
+                "nome_jogo": "Naruto Shippuden: Ultimate Ninja Storm Trilogy",
+                "dados_jogo": {
+                    "Desenvolvedora": "CyberConnect2",
+                    "Publicadora": "Bandai Namco Entertainment",
+                    "Ano": "2017",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "NBA 2K14",
+                "dados_jogo": {
+                    "Desenvolvedora": "Visual Concepts",
+                    "Publicadora": "2K Sports",
+                    "Ano": "2013",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": "[40]"
+                }
+            },
+            {
+                "nome_jogo": "NBA 2K15",
+                "dados_jogo": {
+                    "Desenvolvedora": "Visual Concepts",
+                    "Publicadora": "2K Sports",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "NBA 2K16",
+                "dados_jogo": {
+                    "Desenvolvedora": "Visual Concepts",
+                    "Publicadora": "2K Sports",
+                    "Ano": "2015",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "NBA 2K17",
+                "dados_jogo": {
+                    "Desenvolvedora": "Visual Concepts",
+                    "Publicadora": "2K Sports",
+                    "Ano": "2016",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "NBA 2K18",
+                "dados_jogo": {
+                    "Desenvolvedora": "Visual Concepts",
+                    "Publicadora": "2K Sports",
+                    "Ano": "2017",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": "\""
+                }
+            },
+            {
+                "nome_jogo": "NBA Live 14",
+                "dados_jogo": {
+                    "Desenvolvedora": "Electronic Arts",
+                    "Publicadora": "Electronic Arts",
+                    "Ano": "2013",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": "[41]"
+                }
+            },
+            {
+                "nome_jogo": "NBA Live 15",
+                "dados_jogo": {
+                    "Desenvolvedora": "Electronic Arts",
+                    "Publicadora": "Electronic Arts",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "NBA Live 16",
+                "dados_jogo": {
+                    "Desenvolvedora": "Electronic Arts",
+                    "Publicadora": "Electronic Arts",
+                    "Ano": "2015",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "NBA Live 18",
+                "dados_jogo": {
+                    "Desenvolvedora": "Electronic Arts",
+                    "Publicadora": "Electronic Arts",
+                    "Ano": "2017",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Need for Speed: Rivals",
+                "dados_jogo": {
+                    "Desenvolvedora": "Ghost Games",
+                    "Publicadora": "Electronic Arts",
+                    "Ano": "2013",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": "[42]"
+                }
+            },
+            {
+                "nome_jogo": "Never Alone",
+                "dados_jogo": {
+                    "Desenvolvedora": "Upper One Games",
+                    "Publicadora": "Upper One Games",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": "[43]"
+                }
+            },
+            {
+                "nome_jogo": "Ori and the Blind Forest",
+                "dados_jogo": {
+                    "Desenvolvedora": "Moon Studios",
+                    "Publicadora": "Microsoft Studios",
+                    "Ano": "2014",
+                    "Exclusivo": "Microsoft",
+                    "Kinect": "ASA",
+                    "Ref.": "[44]"
+                }
+            },
+            {
+                "nome_jogo": "Outlast",
+                "dados_jogo": {
+                    "Desenvolvedora": "Red Barrels Studio",
+                    "Publicadora": "Red Barrels Studio",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": "[45]"
+                }
+            },
+            {
+                "nome_jogo": "Peggle 2",
+                "dados_jogo": {
+                    "Desenvolvedora": "PopCap Games",
+                    "Publicadora": "Electronic Arts",
+                    "Ano": "2013",
+                    "Exclusivo": "Não",
+                    "Kinect": "Suportado",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Plants vs. Zombies: Garden Warfare",
+                "dados_jogo": {
+                    "Desenvolvedora": "PopCap Games",
+                    "Publicadora": "Electronic Arts",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Suportado",
+                    "Ref.": "[46]"
+                }
+            },
+            {
+                "nome_jogo": "Powerstar Golf",
+                "dados_jogo": {
+                    "Desenvolvedora": "Zoë Mode",
+                    "Publicadora": "Microsoft Studios",
+                    "Ano": "2013",
+                    "Exclusivo": "Sim",
+                    "Kinect": "ASA",
+                    "Ref.": "[47]"
+                }
+            },
+            {
+                "nome_jogo": "Pro Evolution Soccer 2015",
+                "dados_jogo": {
+                    "Desenvolvedora": "PES Productions",
+                    "Publicadora": "Konami",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": "[48]"
+                }
+            },
+            {
+                "nome_jogo": "Pro Evolution Soccer 2016",
+                "dados_jogo": {
+                    "Desenvolvedora": "Pes Produtions",
+                    "Publicadora": "Konami",
+                    "Ano": "2015",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Pro Evolution Soccer 2017",
+                "dados_jogo": {
+                    "Desenvolvedora": "Pes Produtions",
+                    "Publicadora": "Konami",
+                    "Ano": "2016",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Pro Evolution Soccer 2018",
+                "dados_jogo": {
+                    "Desenvolvedora": "Pes Produtions",
+                    "Publicadora": "Konami",
+                    "Ano": "2017",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Project CARS",
+                "dados_jogo": {
+                    "Desenvolvedora": "Slightly Mad Studios",
+                    "Publicadora": "Slightly Mad Studios",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Project Spark",
+                "dados_jogo": {
+                    "Desenvolvedora": "Team Dakota",
+                    "Publicadora": "Microsoft Studios",
+                    "Ano": "2014",
+                    "Exclusivo": "Microsoft",
+                    "Kinect": "Não",
+                    "Ref.": "[49]"
+                }
+            },
+            {
+                "nome_jogo": "Quantum Break",
+                "dados_jogo": {
+                    "Desenvolvedora": "Remedy Entertainment",
+                    "Publicadora": "Microsoft Studios",
+                    "Ano": "2016",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": "[50]"
+                }
+            },
+            {
+                "nome_jogo": "Rayman Legends",
+                "dados_jogo": {
+                    "Desenvolvedora": "Ubisoft Montpellier",
+                    "Publicadora": "Ubisoft",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Red Dead Redemption II",
+                "dados_jogo": {
+                    "Desenvolvedora": "Rockstar Studios",
+                    "Publicadora": "Rockstar Games",
+                    "Ano": "2018",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Resident Evil HD Remaster",
+                "dados_jogo": {
+                    "Desenvolvedora": "Capcom",
+                    "Publicadora": "Capcom",
+                    "Ano": "2015",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": "[51]"
+                }
+            },
+            {
+                "nome_jogo": "Resident Evil Revelations 2",
+                "dados_jogo": {
+                    "Desenvolvedora": "Capcom",
+                    "Publicadora": "Capcom",
+                    "Ano": "2015",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": "[52]"
+                }
+            },
+            {
+                "nome_jogo": "Rise of the Tomb Raider",
+                "dados_jogo": {
+                    "Desenvolvedora": "Crystal Dynamics",
+                    "Publicadora": "Square Enix",
+                    "Ano": "2015",
+                    "Exclusivo": "Sim",
+                    "Kinect": "ASA",
+                    "Ref.": "[53]"
+                }
+            },
+            {
+                "nome_jogo": "Rocksmith 2014",
+                "dados_jogo": {
+                    "Desenvolvedora": "Red Storm",
+                    "Publicadora": "Ubisoft",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": "[54]"
+                }
+            },
+            {
+                "nome_jogo": "Ryse: Son of Rome",
+                "dados_jogo": {
+                    "Desenvolvedora": "Crytek",
+                    "Publicadora": "Microsoft Studios",
+                    "Ano": "2013",
+                    "Exclusivo": "não",
+                    "Kinect": "Suportado",
+                    "Ref.": "[55]"
+                }
+            },
+            {
+                "nome_jogo": "Sleeping Dogs: Definitive Edition",
+                "dados_jogo": {
+                    "Desenvolvedora": "United Front",
+                    "Publicadora": "Square Enix",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Sleeping Dogs: Triad Wars",
+                "dados_jogo": {
+                    "Desenvolvedora": "United Front",
+                    "Publicadora": "Square Enix",
+                    "Ano": "2015",
+                    "Exclusivo": "Não",
+                    "Kinect": "ASA",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Skylanders: Swap Force",
+                "dados_jogo": {
+                    "Desenvolvedora": "Vicarious Visions",
+                    "Publicadora": "Activision",
+                    "Ano": "2013",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": "[55]"
+                }
+            },
+            {
+                "nome_jogo": "Sniper Elite III",
+                "dados_jogo": {
+                    "Desenvolvedora": "Rebellion Developments",
+                    "Publicadora": "505 Games",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": "[55]"
+                }
+            },
+            {
+                "nome_jogo": "Sniper: Ghost Warrior 3",
+                "dados_jogo": {
+                    "Desenvolvedora": "CI Games",
+                    "Publicadora": "CI Games",
+                    "Ano": "2017",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Strider",
+                "dados_jogo": {
+                    "Desenvolvedora": "Double Helix Games",
+                    "Publicadora": "Capcom",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": "[56]"
+                }
+            },
+            {
+                "nome_jogo": "Strike Suit Zero: Director's Cut",
+                "dados_jogo": {
+                    "Desenvolvedora": "Born Ready Games",
+                    "Publicadora": "Born Ready Games",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": "[57]"
+                }
+            },
+            {
+                "nome_jogo": "Sunset Overdrive",
+                "dados_jogo": {
+                    "Desenvolvedora": "Insomniac Games",
+                    "Publicadora": "Microsoft Studios",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": "[58]"
+                }
+            },
+            {
+                "nome_jogo": "Tales from the Borderlands",
+                "dados_jogo": {
+                    "Desenvolvedora": "Telltale Games",
+                    "Publicadora": "Telltale Games",
+                    "Ano": "2014-2015",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": "[59]"
+                }
+            },
+            {
+                "nome_jogo": "Tekken 7",
+                "dados_jogo": {
+                    "Desenvolvedora": "Bandai Namco Entertainment",
+                    "Publicadora": "Bandai Namco Entertainment",
+                    "Ano": "2017",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": "[60]"
+                }
+            },
+            {
+                "nome_jogo": "The Crew",
+                "dados_jogo": {
+                    "Desenvolvedora": "Ivory Tower",
+                    "Publicadora": "Ubisoft",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "The Elder Scrolls Online",
+                "dados_jogo": {
+                    "Desenvolvedora": "ZeniMax Online Studios",
+                    "Publicadora": "Bethesda Softworks",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": "[61]"
+                }
+            },
+            {
+                "nome_jogo": "The Evil Within",
+                "dados_jogo": {
+                    "Desenvolvedora": "Tango Gameworks",
+                    "Publicadora": "Bethesda Softworks",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": "[62]"
+                }
+            },
+            {
+                "nome_jogo": "The LEGO Movie Videogame",
+                "dados_jogo": {
+                    "Desenvolvedora": "TT Games",
+                    "Publicadora": "Warner Bros. Interactive Entertainment",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "The LEGO Movie Videogame 2",
+                "dados_jogo": {
+                    "Desenvolvedora": "TT Games",
+                    "Publicadora": "Warner Bros. Interactive Entertainment",
+                    "Ano": "26 De Fevereiro De 2019",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "The Walking Dead",
+                "dados_jogo": {
+                    "Desenvolvedora": "Telltale Games",
+                    "Publicadora": "Telltale Games",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": "[63]"
+                }
+            },
+            {
+                "nome_jogo": "The Walking Dead: Season Two",
+                "dados_jogo": {
+                    "Desenvolvedora": "Telltale Games",
+                    "Publicadora": "Telltale Games",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": "[63]"
+                }
+            },
+            {
+                "nome_jogo": "The Witcher 3: Wild Hunt",
+                "dados_jogo": {
+                    "Desenvolvedora": "CD Projekt RED",
+                    "Publicadora": "CD Projekt RED",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Suportado",
+                    "Ref.": "[64]"
+                }
+            },
+            {
+                "nome_jogo": "The Wolf Among Us",
+                "dados_jogo": {
+                    "Desenvolvedora": "Telltale Games",
+                    "Publicadora": "Telltale Games",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": "[63]"
+                }
+            },
+            {
+                "nome_jogo": "Thief",
+                "dados_jogo": {
+                    "Desenvolvedora": "Eidos Montreal",
+                    "Publicadora": "Square Enix",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": "[65]"
+                }
+            },
+            {
+                "nome_jogo": "Titanfall",
+                "dados_jogo": {
+                    "Desenvolvedora": "Respawn Entertainment",
+                    "Publicadora": "Electronic Arts",
+                    "Ano": "2014",
+                    "Exclusivo": "Microsoft",
+                    "Kinect": "Não",
+                    "Ref.": "[66]"
+                }
+            },
+            {
+                "nome_jogo": "Tom Clancy's The Division",
+                "dados_jogo": {
+                    "Desenvolvedora": "Ubisoft Massive",
+                    "Publicadora": "Ubisoft",
+                    "Ano": "2015",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": "[67]"
+                }
+            },
+            {
+                "nome_jogo": "Tomb Raider: Definitive Edition",
+                "dados_jogo": {
+                    "Desenvolvedora": "Crystal Dynamics",
+                    "Publicadora": "Square Enix",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Suportado",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Trials Fusion",
+                "dados_jogo": {
+                    "Desenvolvedora": "RedLynx",
+                    "Publicadora": "Ubisoft",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Valiant Hearts: The Great War",
+                "dados_jogo": {
+                    "Desenvolvedora": "Ubisoft Montpellier",
+                    "Publicadora": "Ubisoft",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": "[68]"
+                }
+            },
+            {
+                "nome_jogo": "Warframe",
+                "dados_jogo": {
+                    "Desenvolvedora": "Digital Extremes",
+                    "Publicadora": "Digital Extremes",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": "[69]"
+                }
+            },
+            {
+                "nome_jogo": "Warhammer 40,000: Eternal Crusade",
+                "dados_jogo": {
+                    "Desenvolvedora": "Behaviour Interactive",
+                    "Publicadora": "Behaviour Interactive",
+                    "Ano": "2015",
+                    "Exclusivo": "Não",
+                    "Kinect": "ASA",
+                    "Ref.": "[70]"
+                }
+            },
+            {
+                "nome_jogo": "Warriors Orochi 3: Ultimate",
+                "dados_jogo": {
+                    "Desenvolvedora": "Omega Force",
+                    "Publicadora": "Tecmo Koei",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": "[71]"
+                }
+            },
+            {
+                "nome_jogo": "Watch Dogs",
+                "dados_jogo": {
+                    "Desenvolvedora": "Ubisoft Montreal",
+                    "Publicadora": "Ubisoft",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": "[1]"
+                }
+            },
+            {
+                "nome_jogo": "Watch Dogs 2",
+                "dados_jogo": {
+                    "Desenvolvedora": "Ubisoft Montreal",
+                    "Publicadora": "Ubisoft",
+                    "Ano": "2016",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Wolfenstein: The New Order",
+                "dados_jogo": {
+                    "Desenvolvedora": "MachineGames",
+                    "Publicadora": "Bethesda Softworks",
+                    "Ano": "2014",
+                    "Exclusivo": "Não",
+                    "Kinect": "Não",
+                    "Ref.": "[55]"
+                }
+            },
+            {
+                "nome_jogo": "Xbox Fitness",
+                "dados_jogo": {
+                    "Desenvolvedora": "Sumo Digital",
+                    "Publicadora": "Microsoft Studios",
+                    "Ano": "2013",
+                    "Exclusivo": "Sim",
+                    "Kinect": "Sim",
+                    "Ref.": ""
+                }
+            },
+            {
+                "nome_jogo": "Zoo Tycoon",
+                "dados_jogo": {
+                    "Desenvolvedora": "Frontier Developments",
+                    "Publicadora": "Microsoft Studios",
+                    "Ano": "2013",
+                    "Exclusivo": "Sim",
+                    "Kinect": "Suportado",
+                    "Ref.": "[72]"
+                }
+            },
+            {
+                "nome_jogo": "Zumba Fitness: World Party",
+                "dados_jogo": {
+                    "Desenvolvedora": "Zoë Mode",
+                    "Publicadora": "Majesco Entertainment",
+                    "Ano": "2013",
+                    "Exclusivo": "Não",
+                    "Kinect": "Sim",
+                    "Ref.": "[1]"
+                }
+            }
+        ]
+    }
+]
